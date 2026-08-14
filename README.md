@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for image alignment and stitching, etc. The list will be updated continuously.
 
-❗ An up-to-date paper list can be found [here](https://github.com/visionxiang/awesome-computational-photography) ⭐ 185 | 🐛 1 | 📅 2025-07-07.
+❗ An up-to-date paper list can be found [here](https://github.com/visionxiang/awesome-computational-photography) ⭐ 186 | 🐛 1 | 📅 2025-07-07.
 
 ## Tutorials
 
@@ -174,7 +174,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - OutlierRemoval
 
-* \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,115 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
+* \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,114 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
 * \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 502 | 🐛 16 | 🌐 C++ | 📅 2026-03-09
 
@@ -535,7 +535,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Examples
 
-* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,066 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
+* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,067 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
 
 * Panorama stitching Project (Python) [\[Code\]](https://github.com/tsherlock/panorama) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2014-10-08 :star:
 
