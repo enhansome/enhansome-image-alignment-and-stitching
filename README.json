@@ -134,7 +134,7 @@
             "last_commit": "2022-08-06T04:35:45Z",
             "owner": "huangkuns",
             "repo": "wireframe",
-            "stars": 238
+            "stars": 239
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 492
+            "stars": 491
           }
         },
         {
@@ -714,7 +714,7 @@
             "last_commit": "2023-10-06T08:29:25Z",
             "owner": "ppwwyyxx",
             "repo": "OpenPano",
-            "stars": 2067
+            "stars": 2066
           }
         },
         {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T03:56:05.319Z",
+    "last_updated": "2026-08-14T00:42:03.235Z",
     "original_repository": "tzxiang/awesome-image-alignment-and-stitching",
     "original_repository_sha": "b2ed7aa7e1eb24c6f3a548b5f9e1339a82f6beab",
     "enhanced_repository": "enhansome/enhansome-image-alignment-and-stitching",
