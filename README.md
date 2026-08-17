@@ -6,7 +6,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,543 | 🐛 0 | 📅 2026-07-23
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
@@ -100,7 +100,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Ellipse detection
 
-* \[**2018TIP**] Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection [\[github\]](https://github.com/AlanLuSun/High-quality-ellipse-detection) ⭐ 517 | 🐛 28 | 🌐 C++ | 📅 2026-08-12
+* \[**2018TIP**] Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection [\[github\]](https://github.com/AlanLuSun/High-quality-ellipse-detection) ⭐ 518 | 🐛 28 | 🌐 C++ | 📅 2026-08-12
 
 * \[**2017TIP**] A Fast Ellipse Detector Using Projective Invariant Pruning [\[Code\]](https://github.com/dlut-dimt/ellipse-detector) ⭐ 78 | 🐛 1 | 🌐 C++ | 📅 2016-08-27
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
