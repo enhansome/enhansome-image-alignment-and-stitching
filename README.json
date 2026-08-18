@@ -14,7 +14,7 @@
             "last_commit": "2026-07-23T06:17:17Z",
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
-            "stars": 1543
+            "stars": 1544
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2019-06-23T05:03:11Z",
             "owner": "hmgoforth",
             "repo": "PointNetLK",
-            "stars": 491
+            "stars": 492
           }
         },
         {
@@ -750,7 +750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T23:56:33.076Z",
+    "last_updated": "2026-08-18T23:56:01.265Z",
     "original_repository": "tzxiang/awesome-image-alignment-and-stitching",
     "original_repository_sha": "b2ed7aa7e1eb24c6f3a548b5f9e1339a82f6beab",
     "enhanced_repository": "enhansome/enhansome-image-alignment-and-stitching",
