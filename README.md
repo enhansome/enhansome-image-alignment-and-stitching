@@ -77,7 +77,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2019CVPR**] Learning Attraction Field Representation for Robust Line Segment Detection [\[github\]](https://github.com/cherubicXN/afm_cvpr2019) ⭐ 302 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
-* \[**2018CVPR**] \[Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [\[github\]](https://github.com/huangkuns/wireframe) ⭐ 239 | 🐛 20 | 🌐 Python | 📅 2022-08-06
+* \[**2018CVPR**] \[Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [\[github\]](https://github.com/huangkuns/wireframe) ⭐ 238 | 🐛 20 | 🌐 Python | 📅 2022-08-06
 
 * Edge Drawing/EDLines/LBD Descriptors/LSD [\[Code\]](https://github.com/mtamburrano/LBD_Descriptor) ⭐ 187 | 🐛 5 | 🌐 C++ | 📅 2015-07-10 [\[Code2\]](https://github.com/Vincentqyw/LineSegmentsDetection) ⭐ 287 | 🐛 1 | 🌐 Shell | 📅 2025-02-17
 
@@ -535,7 +535,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Examples
 
-* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,068 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
+* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,069 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
 
 * Panorama stitching Project (Python) [\[Code\]](https://github.com/tsherlock/panorama) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2014-10-08 :star:
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
