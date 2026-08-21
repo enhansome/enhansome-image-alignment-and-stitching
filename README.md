@@ -126,7 +126,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Feature Matching
 
-* \[**2019ICCV**] Learning Two-View Correspondences and Geometry Using Order-Aware Network [\[Codes\]](https://github.com/zjhthu/OANet) ⭐ 271 | 🐛 7 | 🌐 Python | 📅 2023-04-10
+* \[**2019ICCV**] Learning Two-View Correspondences and Geometry Using Order-Aware Network [\[Codes\]](https://github.com/zjhthu/OANet) ⭐ 272 | 🐛 7 | 🌐 Python | 📅 2023-04-10
 
 * \[**2019CVPR**] RF-Net: An End-to-End Image Matching Network based on Receptive Field [\[Code\]](https://github.com/Xylon-Sean/rfnet) ⭐ 136 | 🐛 16 | 🌐 Python | 📅 2021-10-12
 
@@ -324,7 +324,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * Incompressible Image Registration Using Divergence-Conforming B-Splines
 
-* Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks [\[Codes\]](https://github.com/multimodallearning/pdd_net) ⭐ 63 | 🐛 2 | 🌐 Python | 📅 2021-07-30
+* Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks [\[Codes\]](https://github.com/multimodallearning/pdd_net) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2021-07-30
 
 #### - Point-cloud Registration
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
