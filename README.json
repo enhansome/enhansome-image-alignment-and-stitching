@@ -204,7 +204,7 @@
                     "last_commit": "2026-08-12T15:19:02Z",
                     "owner": "AlanLuSun",
                     "repo": "High-quality-ellipse-detection",
-                    "stars": 518
+                    "stars": 519
                   }
                 },
                 {
@@ -817,7 +817,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T23:57:27.133Z",
+    "last_updated": "2026-08-22T23:55:23.270Z",
     "original_repository": "tzxiang/awesome-image-alignment-and-stitching",
     "original_repository_id": 227467409,
     "original_repository_sha": "b2ed7aa7e1eb24c6f3a548b5f9e1339a82f6beab",

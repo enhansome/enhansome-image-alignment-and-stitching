@@ -79,7 +79,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2018CVPR**] \[Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [\[github\]](https://github.com/huangkuns/wireframe) ⭐ 238 | 🐛 20 | 🌐 Python | 📅 2022-08-06
 
-* Edge Drawing/EDLines/LBD Descriptors/LSD [\[Code\]](https://github.com/mtamburrano/LBD_Descriptor) ⭐ 187 | 🐛 5 | 🌐 C++ | 📅 2015-07-10 [\[Code2\]](https://github.com/Vincentqyw/LineSegmentsDetection) ⭐ 287 | 🐛 1 | 🌐 Shell | 📅 2025-02-17
+* Edge Drawing/EDLines/LBD Descriptors/LSD [\[Code\]](https://github.com/mtamburrano/LBD_Descriptor) ⭐ 187 | 🐛 5 | 🌐 C++ | 📅 2015-07-10 [\[Code2\]](https://github.com/Vincentqyw/LineSegmentsDetection) ⭐ 288 | 🐛 1 | 🌐 Shell | 📅 2025-02-17
 
 * \[**2019CVPR**] PPGNet: Learning Point-Pair Graph for Line Segment Detection [\[github\]](https://github.com/svip-lab/PPGNet) ⭐ 181 | 🐛 12 | 🌐 Python | 📅 2019-07-29
 
@@ -100,7 +100,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Ellipse detection
 
-* \[**2018TIP**] Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection [\[github\]](https://github.com/AlanLuSun/High-quality-ellipse-detection) ⭐ 518 | 🐛 28 | 🌐 C++ | 📅 2026-08-12
+* \[**2018TIP**] Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection [\[github\]](https://github.com/AlanLuSun/High-quality-ellipse-detection) ⭐ 519 | 🐛 28 | 🌐 C++ | 📅 2026-08-12
 
 * \[**2017TIP**] A Fast Ellipse Detector Using Projective Invariant Pruning [\[Code\]](https://github.com/dlut-dimt/ellipse-detector) ⭐ 78 | 🐛 1 | 🌐 C++ | 📅 2016-08-27
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
