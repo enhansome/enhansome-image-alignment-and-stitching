@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for image alignment and stitching, etc. The list will be updated continuously.
 
-❗ An up-to-date paper list can be found [here](https://github.com/visionxiang/awesome-computational-photography) ⭐ 186 | 🐛 1 | 📅 2025-07-07.
+❗ An up-to-date paper list can be found [here](https://github.com/visionxiang/awesome-computational-photography) ⭐ 187 | 🐛 1 | 📅 2025-07-07.
 
 ## Tutorials
 
@@ -77,7 +77,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2019CVPR**] Learning Attraction Field Representation for Robust Line Segment Detection [\[github\]](https://github.com/cherubicXN/afm_cvpr2019) ⭐ 302 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
-* \[**2018CVPR**] \[Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [\[github\]](https://github.com/huangkuns/wireframe) ⭐ 238 | 🐛 20 | 🌐 Python | 📅 2022-08-06
+* \[**2018CVPR**] \[Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [\[github\]](https://github.com/huangkuns/wireframe) ⭐ 237 | 🐛 20 | 🌐 Python | 📅 2022-08-06
 
 * Edge Drawing/EDLines/LBD Descriptors/LSD [\[Code\]](https://github.com/mtamburrano/LBD_Descriptor) ⭐ 187 | 🐛 5 | 🌐 C++ | 📅 2015-07-10 [\[Code2\]](https://github.com/Vincentqyw/LineSegmentsDetection) ⭐ 288 | 🐛 1 | 🌐 Shell | 📅 2025-02-17
 
@@ -176,7 +176,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,114 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
-* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 502 | 🐛 16 | 🌐 C++ | 📅 2026-03-09
+* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 502 | 🐛 15 | 🌐 C++ | 📅 2026-03-09
 
 * \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 339 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
