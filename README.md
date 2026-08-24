@@ -112,13 +112,13 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Feature Description
 
+* \[**2016CVPR**] Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales [\[Proj\]](http://shamangary.logdown.com/posts/587520) [\[Code\]](https://github.com/shamangary/ASV) ⭐ 27 | 🐛 1 | 🌐 C | 📅 2016-04-21
+
 * Single and Cross-Dimensional Feature Detection and Description: An Evaluation, arXiv2019.10
 
 * \[**2020AAAI**] LCD: Learned Cross-domain Descriptors for 2D-3D Matching
 
 * \[**2019ICCV**] Beyond Cartesian Representations for Local Descriptors
-
-* \[**2016CVPR**] Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales [\[Proj\]](http://shamangary.logdown.com/posts/587520) [\[Code\]](https://github.com/shamangary/ASV) ⭐ 27 | 🐛 1 | 🌐 C | 📅 2016-04-21
 
 * \[**2015ICCV**] Discriminative learning of deep convolutional feature point descriptors
 
@@ -300,6 +300,8 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Medical Registration
 
+* Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks [\[Codes\]](https://github.com/multimodallearning/pdd_net) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2021-07-30
+
 * **MICCAI2019**
 
 * Image-and-Spatial Transformer Networks for Structure-Guided Image Registration,
@@ -324,8 +326,6 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * Incompressible Image Registration Using Divergence-Conforming B-Splines
 
-* Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks [\[Codes\]](https://github.com/multimodallearning/pdd_net) ⭐ 64 | 🐛 2 | 🌐 Python | 📅 2021-07-30
-
 #### - Point-cloud Registration
 
 * \[2019ICCV] DeepVCP: An End-to-End Deep Neural Network for Point Cloud Registration
@@ -343,12 +343,12 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Spatially-Varying Warps
 
+* \[**2018TMM**] Parallax-Tolerant Image Stitching Based on Robust Elastic Warping [\[Code\]](https://github.com/gain2217/Robust_Elastic_Warping) ⭐ 155 | 🐛 2 | 🌐 MATLAB | 📅 2019-01-07
 * \[**2020TIP**] Local-Adaptive Image Alignment Based on Triangular Facet Approximation
 * \[2020JINS] Shape-optimizing mesh warping method for stereoscopic panorama stitching
 * \[**2019TVCG**] Content-Preserving Image Stitching with Regular Boundary Constraints
 * \[2019CGI] Stereoscopic Image Stitching with Rectangular Boundaries
 * \[**2019TMM**] A Novel Projective-Consistent Plane based Image Stitching Method
-* \[**2018TMM**] Parallax-Tolerant Image Stitching Based on Robust Elastic Warping [\[Code\]](https://github.com/gain2217/Robust_Elastic_Warping) ⭐ 155 | 🐛 2 | 🌐 MATLAB | 📅 2019-01-07
 * \[**2018TMM**] Quasi-Homography Warps in Image Stitching
 * \[**2018ECCV**] Image Stitching with Multiple Registrations [\[Homepage\]](https://sites.google.com/view/oois-eccv18)
 * \[**2018ECCV**] Object-Centered Image Stitching  [\[Homepage\]](https://sites.google.com/view/oois-eccv18)
@@ -385,9 +385,9 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Stitching/Panoramas
 
-* \[**2016TOG**] Jump: Virtual reality video
-
 * \[2016ACCV] Pano2Vid: Automatic Cinematography for Watching 360° Videos [\[Proj\]](http://vision.cs.utexas.edu/projects/Pano2Vid/#publication) [\[Code\]](https://github.com/sammy-su/Pano2Vid) ⭐ 23 | 🐛 3 | 🌐 Python | 📅 2017-07-20
+
+* \[**2016TOG**] Jump: Virtual reality video
 
 * \[2014ECCV] PanoContext: A Whole-room 3D Context Model  for Panoramic Scene Understanding, oral [\[Proj/Code\]](http://panocontext.cs.princeton.edu/)
 
@@ -467,9 +467,9 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Video Stitching
 
-* \[**2019BMVC**] \[**CNNStitch**] Video Stitching for Linear Camera Arrays \[CNN-based]  [\[Proj\]](http://vllab.ucmerced.edu/wlai24/video_stitching/)  :star:
-
 * \[**2018TIP**] Dynamic Video Stitching via Shakiness Removing [\[github\]](https://github.com/SuTanTank/VideoStitchingViaShakinessRemoving) ⭐ 126 | 🐛 8 | 🌐 MATLAB | 📅 2022-07-09
+
+* \[**2019BMVC**] \[**CNNStitch**] Video Stitching for Linear Camera Arrays \[CNN-based]  [\[Proj\]](http://vllab.ucmerced.edu/wlai24/video_stitching/)  :star:
 
 * \[2017CGF] High-resolution 360 video foveated stitching for realtime VR
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

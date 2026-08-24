@@ -235,6 +235,28 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "[2016CVPR] Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales [Proj]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55386867,
+                "language": "C",
+                "last_commit": "2016-04-21T09:26:49Z",
+                "owner": "shamangary",
+                "repo": "ASV",
+                "stars": 27
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Feature Description"
+        },
+        {
+          "children": [
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -382,6 +404,28 @@
               "description": null,
               "node_type": "group",
               "title": "- OutlierRemoval"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[2019ICCV] Bridging the Domain Gap for Ground-to-Aerial Image Matching [Code]",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 198778302,
+                    "language": "Lua",
+                    "last_commit": "2020-03-30T21:48:07Z",
+                    "owner": "kregmi",
+                    "repo": "cross-view-image-matching",
+                    "stars": 47
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "- Cross-View Matching"
             }
           ],
           "description": null,
@@ -589,6 +633,28 @@
               "description": null,
               "node_type": "group",
               "title": "- Remote Sensing"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks [Codes]",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 194848757,
+                    "language": "Python",
+                    "last_commit": "2021-07-30T19:45:47Z",
+                    "owner": "multimodallearning",
+                    "repo": "pdd_net",
+                    "stars": 64
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "- Medical Registration"
             }
           ],
           "description": null,
@@ -601,6 +667,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2018TMM] Parallax-Tolerant Image Stitching Based on Robust Elastic Warping [Code]",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89052181,
+                "language": "MATLAB",
+                "last_commit": "2019-01-07T10:27:55Z",
+                "owner": "gain2217",
+                "repo": "Robust_Elastic_Warping",
+                "stars": 155
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Spatially-Varying Warps"
+        },
         {
           "children": [
             {
@@ -637,6 +725,28 @@
           "description": null,
           "node_type": "group",
           "title": "Dsitortion Preserving"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "[2016ACCV] Pano2Vid: Automatic Cinematography for Watching 360° Videos [Proj]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77092126,
+                "language": "Python",
+                "last_commit": "2017-07-20T21:51:11Z",
+                "owner": "sammy-su",
+                "repo": "Pano2Vid",
+                "stars": 23
+              }
+            }
+          ],
+          "description": "Stitching Application",
+          "node_type": "group",
+          "title": "Stitching/Panoramas"
         }
       ],
       "title": "Image Stitching"
@@ -684,6 +794,35 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "[2019MM] GP-GAN: Towards Realistic High-Resolution Image Blending [Proj]",
+                  "description": "[github] :star:",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 85825693,
+                    "language": "Python",
+                    "last_commit": "2020-03-27T04:26:33Z",
+                    "owner": "wuhuikai",
+                    "repo": "GP-GAN",
+                    "stars": 472
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "- Gradient-based"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blending"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "[2019ISPRSJ] A Closed-Form Solution for Multi-View Color Correction with Gradient Preservation [Code]",
               "description": null,
@@ -720,6 +859,27 @@
         }
       ],
       "title": "Image Composition"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "[2018TIP] Dynamic Video Stitching via Shakiness Removing [github]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119472065,
+            "language": "MATLAB",
+            "last_commit": "2022-07-09T05:19:19Z",
+            "owner": "SuTanTank",
+            "repo": "VideoStitchingViaShakinessRemoving",
+            "stars": 126
+          }
+        }
+      ],
+      "title": "Video Stitching"
     },
     {
       "description": null,
@@ -817,7 +977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:55:03.641Z",
+    "last_updated": "2026-08-24T14:24:16.812Z",
     "original_repository": "tzxiang/awesome-image-alignment-and-stitching",
     "original_repository_id": 227467409,
     "original_repository_sha": "b2ed7aa7e1eb24c6f3a548b5f9e1339a82f6beab",
