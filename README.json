@@ -367,7 +367,7 @@
                     "last_commit": "2026-03-09T20:31:00Z",
                     "owner": "danini",
                     "repo": "magsac",
-                    "stars": 502
+                    "stars": 503
                   }
                 },
                 {
@@ -977,7 +977,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:55:37.845Z",
+    "last_updated": "2026-08-25T06:16:32.799Z",
     "original_repository": "tzxiang/awesome-image-alignment-and-stitching",
     "original_repository_id": 227467409,
     "original_repository_sha": "b2ed7aa7e1eb24c6f3a548b5f9e1339a82f6beab",
