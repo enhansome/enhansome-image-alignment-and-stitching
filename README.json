@@ -977,9 +977,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T05:01:01.059Z",
-    "original_repository": "tzxiang/awesome-image-alignment-and-stitching",
-    "original_repository_id": 227467409,
+    "last_updated": "2026-08-27T11:43:26.002Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 227467409,
+      "language": null,
+      "last_commit": "2022-08-08T09:33:10Z",
+      "owner": "tzxiang",
+      "repo": "awesome-image-alignment-and-stitching",
+      "stars": 463
+    },
     "original_repository_sha": "b2ed7aa7e1eb24c6f3a548b5f9e1339a82f6beab",
     "enhanced_repository": "enhansome/enhansome-image-alignment-and-stitching",
     "enhanced_repository_description": null,
