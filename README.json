@@ -16,7 +16,8 @@
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
             "stars": 1544
-          }
+          },
+          "first_seen": "2026-08-28T07:04:10.014Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "natandrade",
             "repo": "Tutorial-Medical-Image-Registration",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T07:04:10.014Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "learn2reg",
             "repo": "tutorials2019",
             "stars": 198
-          }
+          },
+          "first_seen": "2026-08-28T07:04:10.014Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "OpenStitching",
             "repo": "stitching_tutorial",
             "stars": 136
-          }
+          },
+          "first_seen": "2026-08-28T07:04:10.014Z"
         }
       ],
       "title": "Tutorials"
@@ -86,7 +90,8 @@
                     "owner": "cvlab-epfl",
                     "repo": "LIFT",
                     "stars": 494
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -101,7 +106,8 @@
                     "owner": "vcg-uvic",
                     "repo": "lf-net-release",
                     "stars": 320
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 }
               ],
               "description": null,
@@ -123,7 +129,8 @@
                     "owner": "cherubicXN",
                     "repo": "afm_cvpr2019",
                     "stars": 302
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -138,7 +145,8 @@
                     "owner": "huangkuns",
                     "repo": "wireframe",
                     "stars": 237
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -153,7 +161,8 @@
                     "owner": "mtamburrano",
                     "repo": "LBD_Descriptor",
                     "stars": 187
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -168,7 +177,8 @@
                     "owner": "svip-lab",
                     "repo": "PPGNet",
                     "stars": 181
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -183,7 +193,8 @@
                     "owner": "NamgyuCho",
                     "repo": "Linelet-code-and-YorkUrban-LineSegment-DB",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 }
               ],
               "description": null,
@@ -205,7 +216,8 @@
                     "owner": "AlanLuSun",
                     "repo": "High-quality-ellipse-detection",
                     "stars": 519
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -220,7 +232,8 @@
                     "owner": "dlut-dimt",
                     "repo": "ellipse-detector",
                     "stars": 78
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 }
               ],
               "description": null,
@@ -247,7 +260,8 @@
                 "owner": "shamangary",
                 "repo": "ASV",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             }
           ],
           "description": null,
@@ -271,7 +285,8 @@
                     "owner": "zjhthu",
                     "repo": "OANet",
                     "stars": 272
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -286,7 +301,8 @@
                     "owner": "xuelunshen",
                     "repo": "rfnet",
                     "stars": 136
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -301,7 +317,8 @@
                     "owner": "seravee08",
                     "repo": "WideBaselineFeatureMatcher_PAMI",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -316,7 +333,8 @@
                     "owner": "chaitanya100100",
                     "repo": "Spectral-Analysis-for-Image-Matching",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -331,7 +349,8 @@
                     "owner": "maroofmf",
                     "repo": "image_splicing_ICT",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 }
               ],
               "description": null,
@@ -353,7 +372,8 @@
                     "owner": "JiawangBian",
                     "repo": "GMS-Feature-Matcher",
                     "stars": 1114
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -368,7 +388,8 @@
                     "owner": "danini",
                     "repo": "magsac",
                     "stars": 503
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -383,7 +404,8 @@
                     "owner": "vislearn",
                     "repo": "ngransac",
                     "stars": 339
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -398,7 +420,8 @@
                     "owner": "rlit",
                     "repo": "LatentRANSAC",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 }
               ],
               "description": null,
@@ -420,7 +443,8 @@
                     "owner": "kregmi",
                     "repo": "cross-view-image-matching",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 }
               ],
               "description": null,
@@ -453,7 +477,8 @@
                 "owner": "JirongZhang",
                 "repo": "DeepHomography",
                 "stars": 366
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -468,7 +493,8 @@
                 "owner": "tynguyen",
                 "repo": "unsupervisedDeepHomographyRAL2018",
                 "stars": 290
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -483,7 +509,8 @@
                 "owner": "alexhagiopol",
                 "repo": "deep_homography_estimation",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -498,7 +525,8 @@
                 "owner": "ruizengalways",
                 "repo": "PFNet",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -513,7 +541,8 @@
                 "owner": "danini",
                 "repo": "homography-from-sift-features",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -528,7 +557,8 @@
                 "owner": "erlikn",
                 "repo": "tf_dh_py",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             }
           ],
           "description": null,
@@ -552,7 +582,8 @@
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
                     "stars": 492
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -567,7 +598,8 @@
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
                     "stars": 459
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -582,7 +614,8 @@
                     "owner": "microsoft",
                     "repo": "Recursive-Cascaded-Networks",
                     "stars": 373
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -597,7 +630,8 @@
                     "owner": "uncbiag",
                     "repo": "registration",
                     "stars": 294
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -612,7 +646,8 @@
                     "owner": "intellhave",
                     "repo": "SDRSAC",
                     "stars": 116
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 },
                 {
                   "node_type": "item",
@@ -627,7 +662,8 @@
                     "owner": "Lydorn",
                     "repo": "mapalignment",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 }
               ],
               "description": null,
@@ -649,7 +685,8 @@
                     "owner": "multimodallearning",
                     "repo": "pdd_net",
                     "stars": 64
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 }
               ],
               "description": null,
@@ -682,7 +719,8 @@
                 "owner": "gain2217",
                 "repo": "Robust_Elastic_Warping",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             }
           ],
           "description": null,
@@ -704,7 +742,8 @@
                 "owner": "nothinglo",
                 "repo": "NISwGSP",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -719,7 +758,8 @@
                 "owner": "tlliao",
                 "repo": "Single-perspective-warps",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             }
           ],
           "description": null,
@@ -741,7 +781,8 @@
                 "owner": "sammy-su",
                 "repo": "Pano2Vid",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             }
           ],
           "description": "Stitching Application",
@@ -769,7 +810,8 @@
                 "owner": "tlliao",
                 "repo": "Perception-based-seam-cutting",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -784,7 +826,8 @@
                 "owner": "tlliao",
                 "repo": "Iterative-seam-estimation",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             }
           ],
           "description": null,
@@ -808,7 +851,8 @@
                     "owner": "wuhuikai",
                     "repo": "GP-GAN",
                     "stars": 472
-                  }
+                  },
+                  "first_seen": "2026-08-28T07:04:10.014Z"
                 }
               ],
               "description": null,
@@ -835,7 +879,8 @@
                 "owner": "MenghanXia",
                 "repo": "ColorConsistency",
                 "stars": 88
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -850,7 +895,8 @@
                 "owner": "syncle",
                 "repo": "photo_consistency",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             }
           ],
           "description": null,
@@ -876,7 +922,8 @@
             "owner": "SuTanTank",
             "repo": "VideoStitchingViaShakinessRemoving",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T07:04:10.014Z"
         }
       ],
       "title": "Video Stitching"
@@ -897,7 +944,8 @@
             "owner": "cxjyxxme",
             "repo": "deep-online-video-stabilization",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T07:04:10.014Z"
         },
         {
           "node_type": "item",
@@ -912,7 +960,8 @@
             "owner": "chenyuanpengcyp",
             "repo": "video-stabilization",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T07:04:10.014Z"
         }
       ],
       "title": "Video Stabilization"
@@ -935,7 +984,8 @@
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
                 "stars": 2070
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -950,7 +1000,8 @@
                 "owner": "tsherlock",
                 "repo": "panorama",
                 "stars": 99
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             },
             {
               "node_type": "item",
@@ -965,7 +1016,8 @@
                 "owner": "TejasNaikk",
                 "repo": "Image-Alignment-and-Panoramas",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T07:04:10.014Z"
             }
           ],
           "description": null,
@@ -977,7 +1029,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:26.002Z",
+    "last_updated": "2026-08-28T07:04:10.014Z",
     "original_repository_info": {
       "archived": false,
       "id": 227467409,
