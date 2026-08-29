@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "image registration related books, papers, videos, and toolboxes ",
+            "homepage": "https://awesome-image-registration-organization.github.io/awesome-image-registration/",
             "id": 218470804,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2026-07-23T06:17:17Z",
+            "open_issues": 0,
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
-            "stars": 1544
+            "stars": 1543,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "image",
+              "image-processing",
+              "image-registration",
+              "medical-images",
+              "natural-images",
+              "point-cloud-registration",
+              "remote-sensing-image",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-28T07:04:10.014Z"
         },
@@ -26,12 +42,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Medical Image Registration",
+            "homepage": null,
             "id": 156013204,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-12-28T23:39:02Z",
+            "open_issues": 1,
             "owner": "natandrade",
             "repo": "Tutorial-Medical-Image-Registration",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "medical-image-analysis",
+              "medical-image-processing",
+              "medical-image-registration",
+              "medical-imaging",
+              "tutorial-medical-image-registration"
+            ]
           },
           "first_seen": "2026-08-28T07:04:10.014Z"
         },
@@ -42,12 +69,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 212097931,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2020-02-06T23:51:47Z",
+            "open_issues": 1,
             "owner": "learn2reg",
             "repo": "tutorials2019",
-            "stars": 198
+            "stars": 198,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:10.014Z"
         },
@@ -58,12 +90,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " A repository for presenting the functionalty of the python 'stitching' package",
+            "homepage": null,
             "id": 424934502,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-03T21:01:00Z",
+            "open_issues": 1,
             "owner": "OpenStitching",
             "repo": "stitching_tutorial",
-            "stars": 136
+            "stars": 136,
+            "topics": [
+              "feature-detection",
+              "feature-matching",
+              "image-stitching",
+              "opencv",
+              "opencv-python",
+              "seam-carving",
+              "stitching"
+            ]
           },
           "first_seen": "2026-08-28T07:04:10.014Z"
         }
@@ -84,12 +129,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code release for the ECCV 2016 paper",
+                    "homepage": null,
                     "id": 63952900,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2017-11-06T13:55:43Z",
+                    "open_issues": 1,
                     "owner": "cvlab-epfl",
                     "repo": "LIFT",
-                    "stars": 494
+                    "stars": 494,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -100,12 +150,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code Release for LF-Net: Learning Local Features from Images",
+                    "homepage": null,
                     "id": 142556595,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-11-21T21:10:46Z",
+                    "open_issues": 14,
                     "owner": "vcg-uvic",
                     "repo": "lf-net-release",
-                    "stars": 320
+                    "stars": 320,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 }
@@ -123,12 +178,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of paper \"Learning Attraction Field Map for Robust Line Segment Detection\" (CVPR 2019)",
+                    "homepage": null,
                     "id": 174031163,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-06-23T17:19:59Z",
+                    "open_issues": 14,
                     "owner": "cherubicXN",
                     "repo": "afm_cvpr2019",
-                    "stars": 302
+                    "stars": 302,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -139,12 +199,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 129936948,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-08-06T04:35:45Z",
+                    "open_issues": 20,
                     "owner": "huangkuns",
                     "repo": "wireframe",
-                    "stars": 237
+                    "stars": 237,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -155,12 +220,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 15056361,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2015-07-10T12:50:01Z",
+                    "open_issues": 5,
                     "owner": "mtamburrano",
                     "repo": "LBD_Descriptor",
-                    "stars": 187
+                    "stars": 187,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -171,12 +241,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Source code for our CVPR 2019 paper - PPGNet: Learning Point-Pair Graph for Line Segment Detection",
+                    "homepage": "https://www.aiyoggle.me/publication/ppgnet-cvpr19/",
                     "id": 179446811,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-07-29T04:29:30Z",
+                    "open_issues": 12,
                     "owner": "svip-lab",
                     "repo": "PPGNet",
-                    "stars": 181
+                    "stars": 181,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -187,12 +262,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Novel Linelet-based Representation for Line Segment Detection (code and db)",
+                    "homepage": null,
                     "id": 89547290,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2017-10-16T05:47:44Z",
+                    "open_issues": 2,
                     "owner": "NamgyuCho",
                     "repo": "Linelet-code-and-YorkUrban-LineSegment-DB",
-                    "stars": 31
+                    "stars": 31,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 }
@@ -210,12 +290,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A high-quality ellipse detector based on arc-support line segments which can both accurately and efficiently detect ellipses in images.",
+                    "homepage": null,
                     "id": 150611294,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2026-08-12T15:19:02Z",
+                    "open_issues": 28,
                     "owner": "AlanLuSun",
                     "repo": "High-quality-ellipse-detection",
-                    "stars": 519
+                    "stars": 519,
+                    "topics": [
+                      "ellipse-detection",
+                      "ellipse-detector",
+                      "high-quality",
+                      "image-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -226,12 +316,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 66616151,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2016-08-27T14:47:07Z",
+                    "open_issues": 1,
                     "owner": "dlut-dimt",
                     "repo": "ellipse-detector",
-                    "stars": 78
+                    "stars": 78,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 }
@@ -254,12 +349,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR16] Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales",
+                "homepage": null,
                 "id": 55386867,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2016-04-21T09:26:49Z",
+                "open_issues": 1,
                 "owner": "shamangary",
                 "repo": "ASV",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "accumulation",
+                  "cvpr",
+                  "cvpr16",
+                  "feature",
+                  "image",
+                  "matching",
+                  "scale",
+                  "stability",
+                  "voting"
+                ]
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             }
@@ -279,12 +389,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of ICCV19 Paper \"Learning Two-View Correspondences and Geometry Using Order-Aware Network\"",
+                    "homepage": null,
                     "id": 202188095,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-04-10T11:53:58Z",
+                    "open_issues": 7,
                     "owner": "zjhthu",
                     "repo": "OANet",
-                    "stars": 272
+                    "stars": 272,
+                    "topics": [
+                      "3d-reconstruction",
+                      "graph-neural-network",
+                      "iccv2019",
+                      "image-matching",
+                      "outlier-rejection"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -295,12 +416,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "RF-Net: An End-to-End Image Matching Network based on Receptive Field",
+                    "homepage": null,
                     "id": 190498944,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-10-12T22:52:06Z",
+                    "open_issues": 16,
                     "owner": "xuelunshen",
                     "repo": "rfnet",
-                    "stars": 136
+                    "stars": 136,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -311,12 +437,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This repository contains .exe demo",
+                    "homepage": null,
                     "id": 40882076,
                     "language": "C++",
+                    "license": "GPL-3.0",
                     "last_commit": "2015-09-02T11:49:06Z",
+                    "open_issues": 7,
                     "owner": "seravee08",
                     "repo": "WideBaselineFeatureMatcher_PAMI",
-                    "stars": 37
+                    "stars": 37,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -327,12 +458,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Implementation of Joint Spectral Correspondence for matching the images with disparate appearance arising from factors like dramatic illumination (day vs. night), age (historic vs. new) and rendering style differences.",
+                    "homepage": null,
                     "id": 93043254,
                     "language": "Matlab",
+                    "license": null,
                     "last_commit": "2017-06-22T11:27:29Z",
+                    "open_issues": 0,
                     "owner": "chaitanya100100",
                     "repo": "Spectral-Analysis-for-Image-Matching",
-                    "stars": 13
+                    "stars": 13,
+                    "topics": [
+                      "image-comparison",
+                      "spectral-analysis",
+                      "spectral-methods"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -343,12 +483,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 93887690,
                     "language": "Jupyter Notebook",
+                    "license": null,
                     "last_commit": "2017-06-09T18:47:50Z",
+                    "open_issues": 2,
                     "owner": "maroofmf",
                     "repo": "image_splicing_ICT",
-                    "stars": 7
+                    "stars": 7,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 }
@@ -366,12 +511,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence (CVPR 17 & IJCV 20)",
+                    "homepage": "http://jwbian.net/gms",
                     "id": 71983227,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2020-06-10T06:30:44Z",
+                    "open_issues": 10,
                     "owner": "JiawangBian",
                     "repo": "GMS-Feature-Matcher",
-                    "stars": 1114
+                    "stars": 1114,
+                    "topics": [
+                      "feature",
+                      "gms",
+                      "matching",
+                      "sfm",
+                      "slam"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -382,12 +538,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The MAGSAC algorithm for robust model fitting without using an inlier-outlier threshold",
+                    "homepage": null,
                     "id": 178883364,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-09T20:31:00Z",
+                    "open_issues": 15,
                     "owner": "danini",
                     "repo": "magsac",
-                    "stars": 503
+                    "stars": 503,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -398,12 +559,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Neural-Guided RANSAC for Estimating Epipolar Geometry from Sparse Correspondences",
+                    "homepage": null,
                     "id": 208760208,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2021-11-03T10:44:15Z",
+                    "open_issues": 1,
                     "owner": "vislearn",
                     "repo": "ngransac",
-                    "stars": 339
+                    "stars": 339,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -414,12 +580,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Latent RANSAC implementation, based on USAC",
+                    "homepage": null,
                     "id": 124866981,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-06-04T13:19:10Z",
+                    "open_issues": 0,
                     "owner": "rlit",
                     "repo": "LatentRANSAC",
-                    "stars": 25
+                    "stars": 25,
+                    "topics": [
+                      "homography",
+                      "pnp",
+                      "random-grids",
+                      "ransac",
+                      "usac"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 }
@@ -437,12 +614,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICCV 2019] Bridging the Domain Gap for Ground-to-Aerial Image Matching",
+                    "homepage": null,
                     "id": 198778302,
                     "language": "Lua",
+                    "license": null,
                     "last_commit": "2020-03-30T21:48:07Z",
+                    "open_issues": 5,
                     "owner": "kregmi",
                     "repo": "cross-view-image-matching",
-                    "stars": 47
+                    "stars": 47,
+                    "topics": [
+                      "aerial",
+                      "cross-view",
+                      "geolocalization",
+                      "ground",
+                      "image-matching",
+                      "lua",
+                      "panorama",
+                      "synthesis",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 }
@@ -471,12 +663,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Content-Aware Unsupervised Deep Homography Estimation",
+                "homepage": null,
                 "id": 208021710,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-12T09:26:49Z",
+                "open_issues": 32,
                 "owner": "JirongZhang",
                 "repo": "DeepHomography",
-                "stars": 366
+                "stars": 366,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -487,12 +684,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unsupervised Deep Homography: A Fast and Robust Homography Estimation Model",
+                "homepage": "https://arxiv.org/abs/1709.03966",
                 "id": 121344641,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-04-23T22:58:47Z",
+                "open_issues": 4,
                 "owner": "tynguyen",
                 "repo": "unsupervisedDeepHomographyRAL2018",
-                "stars": 290
+                "stars": 290,
+                "topics": [
+                  "deep",
+                  "homography",
+                  "robotics",
+                  "tensorflow",
+                  "training",
+                  "unsupervised"
+                ]
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -503,12 +712,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Compute homographies with deep networks instead of feature matching and RANSAC.",
+                "homepage": null,
                 "id": 91265253,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-05-15T17:51:58Z",
+                "open_issues": 2,
                 "owner": "alexhagiopol",
                 "repo": "deep_homography_estimation",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -519,12 +733,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code Repo of 'Rethinking Planar Homography Estimation Using Perspective Fields'",
+                "homepage": null,
                 "id": 152589581,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-06-28T04:18:52Z",
+                "open_issues": 6,
                 "owner": "ruizengalways",
                 "repo": "PFNet",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "homography",
+                  "homography-estimator",
+                  "homographynet"
+                ]
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -535,12 +758,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 200685936,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2019-10-24T13:58:32Z",
+                "open_issues": 0,
                 "owner": "danini",
                 "repo": "homography-from-sift-features",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -551,12 +779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Homography Estimation from Image Pairs with Hierarchical Convolutional Networks",
+                "homepage": null,
                 "id": 80169992,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-08-23T17:03:49Z",
+                "open_issues": 2,
                 "owner": "erlikn",
                 "repo": "tf_dh_py",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             }
@@ -576,12 +809,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 175455980,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2019-06-23T05:03:11Z",
+                    "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 492
+                    "stars": 492,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -592,12 +830,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An image registration method using convolutional neural network features.",
+                    "homepage": null,
                     "id": 121105981,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-12-28T10:00:45Z",
+                    "open_issues": 25,
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 459
+                    "stars": 458,
+                    "topics": [
+                      "convolutional-neural-networks",
+                      "image-registration"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -608,12 +854,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "[ICCV 2019] Recursive Cascaded Networks for Unsupervised Medical Image Registration",
+                    "homepage": "https://arxiv.org/abs/1907.12353",
                     "id": 215749159,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2021-12-13T22:53:44Z",
+                    "open_issues": 24,
                     "owner": "microsoft",
                     "repo": "Recursive-Cascaded-Networks",
-                    "stars": 373
+                    "stars": 373,
+                    "topics": [
+                      "iccv2019",
+                      "medical-image-registration",
+                      "unsupervised-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -624,12 +879,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Image Registration",
+                    "homepage": null,
                     "id": 179505048,
                     "language": "TeX",
+                    "license": null,
                     "last_commit": "2019-11-14T22:18:14Z",
+                    "open_issues": 1,
                     "owner": "uncbiag",
                     "repo": "registration",
-                    "stars": 294
+                    "stars": 294,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -640,12 +900,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SDRSAC - Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences.",
+                    "homepage": null,
                     "id": 179721087,
                     "language": "MATLAB",
+                    "license": null,
                     "last_commit": "2019-06-28T00:58:19Z",
+                    "open_issues": 7,
                     "owner": "intellhave",
                     "repo": "SDRSAC",
-                    "stars": 116
+                    "stars": 116,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 },
@@ -656,12 +921,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Aligning and Updating Cadaster Maps with Remote Sensing Images",
+                    "homepage": null,
                     "id": 147528253,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2020-09-03T13:47:20Z",
+                    "open_issues": 3,
                     "owner": "Lydorn",
                     "repo": "mapalignment",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 }
@@ -679,12 +949,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Probabilistic Dense Displacement Network (3D discrete deep learning registration) ",
+                    "homepage": null,
                     "id": 194848757,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-07-30T19:45:47Z",
+                    "open_issues": 2,
                     "owner": "multimodallearning",
                     "repo": "pdd_net",
-                    "stars": 64
+                    "stars": 64,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 }
@@ -713,12 +988,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "source codes for Parallax-Tolerant Image Stitching Based on Robust Elastic Warping",
+                "homepage": null,
                 "id": 89052181,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2019-01-07T10:27:55Z",
+                "open_issues": 2,
                 "owner": "gain2217",
                 "repo": "Robust_Elastic_Warping",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             }
@@ -736,12 +1016,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C++ implementation of the ECCV 2016 paper, Natural Image Stitching with the Global Similarity Prior.",
+                "homepage": null,
                 "id": 87173571,
                 "language": "C",
+                "license": null,
                 "last_commit": "2018-05-15T06:47:39Z",
+                "open_issues": 27,
                 "owner": "nothinglo",
                 "repo": "NISwGSP",
-                "stars": 344
+                "stars": 344,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -752,12 +1037,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[TIP 2020] Code for the paper \"Single-Perspective Warps in Natural Image Stitching\"",
+                "homepage": null,
                 "id": 208946627,
                 "language": "MATLAB",
+                "license": null,
                 "last_commit": "2025-12-05T05:05:59Z",
+                "open_issues": 3,
                 "owner": "tlliao",
                 "repo": "Single-perspective-warps",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "image-alignment",
+                  "image-stitching",
+                  "image-warping"
+                ]
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             }
@@ -775,12 +1069,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 77092126,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-07-20T21:51:11Z",
+                "open_issues": 3,
                 "owner": "sammy-su",
                 "repo": "Pano2Vid",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             }
@@ -804,12 +1103,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIViP 2018] Official code for perception-based seam cutting for image stitching",
+                "homepage": null,
                 "id": 208380464,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2025-12-05T05:04:40Z",
+                "open_issues": 0,
                 "owner": "tlliao",
                 "repo": "Perception-based-seam-cutting",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "image-stitching"
+                ]
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -820,12 +1126,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[SIViP 2019] Official code for Quality evaluation-based iterative seam estimation for image stitching",
+                "homepage": null,
                 "id": 207748431,
                 "language": "MATLAB",
+                "license": "MIT",
                 "last_commit": "2025-12-05T05:05:07Z",
+                "open_issues": 0,
                 "owner": "tlliao",
                 "repo": "Iterative-seam-estimation",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "image-stitching"
+                ]
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             }
@@ -845,12 +1158,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Chainer implementation of GP-GAN: Towards Realistic High-Resolution Image Blending (ACMMM 2019, oral)",
+                    "homepage": null,
                     "id": 85825693,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-03-27T04:26:33Z",
+                    "open_issues": 2,
                     "owner": "wuhuikai",
                     "repo": "GP-GAN",
-                    "stars": 472
+                    "stars": 472,
+                    "topics": [
+                      "artificial-intelligence",
+                      "chainer",
+                      "computer-graphics",
+                      "computer-vision",
+                      "deep-learning",
+                      "gan",
+                      "gp-gan",
+                      "image-blending",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
                 }
@@ -873,12 +1201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Improving color consistency across multiple images via global optimization on the color remapping curves. [ICCVW 2017 & ISPRS Journal 2019]",
+                "homepage": null,
                 "id": 96872696,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2022-07-07T02:22:31Z",
+                "open_issues": 1,
                 "owner": "MenghanXia",
                 "repo": "ColorConsistency",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -889,12 +1222,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient and Robust Color Consistency for Community Photo Collections",
+                "homepage": "http://jaesik.info/publications/photoconsistency/index.html",
                 "id": 116890485,
                 "language": "Matlab",
+                "license": null,
                 "last_commit": "2018-01-10T01:32:57Z",
+                "open_issues": 2,
                 "owner": "syncle",
                 "repo": "photo_consistency",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             }
@@ -916,12 +1254,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demo code for our TIP video stitching paper in 2017",
+            "homepage": null,
             "id": 119472065,
             "language": "MATLAB",
+            "license": "BSD-2-Clause",
             "last_commit": "2022-07-09T05:19:19Z",
+            "open_issues": 8,
             "owner": "SuTanTank",
             "repo": "VideoStitchingViaShakinessRemoving",
-            "stars": 126
+            "stars": 126,
+            "topics": [
+              "video-stabilization",
+              "video-stitching"
+            ]
           },
           "first_seen": "2026-08-28T07:04:10.014Z"
         }
@@ -938,12 +1284,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "video stabilization with CNN https://ieeexplore.ieee.org/document/8554287",
+            "homepage": null,
             "id": 160031238,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-26T08:15:33Z",
+            "open_issues": 9,
             "owner": "cxjyxxme",
             "repo": "deep-online-video-stabilization",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:10.014Z"
         },
@@ -954,12 +1305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 191125708,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-06-14T09:10:53Z",
+            "open_issues": 2,
             "owner": "chenyuanpengcyp",
             "repo": "video-stabilization",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T07:04:10.014Z"
         }
@@ -978,12 +1334,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic Panorama Stitching From Scratch",
+                "homepage": null,
                 "id": 9639042,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2023-10-06T08:29:25Z",
+                "open_issues": 35,
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
-                "stars": 2070
+                "stars": 2070,
+                "topics": [
+                  "bundle-adjustment",
+                  "panorama",
+                  "sift"
+                ]
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -994,12 +1359,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "panorama stitcher",
+                "homepage": null,
                 "id": 24925134,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2014-10-08T05:00:08Z",
+                "open_issues": 2,
                 "owner": "tsherlock",
                 "repo": "panorama",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             },
@@ -1010,12 +1380,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stitching different perspective images into a single smooth panorama using Laplacian Blending. ",
+                "homepage": null,
                 "id": 108622467,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-01-26T07:51:27Z",
+                "open_issues": 2,
                 "owner": "TejasNaikk",
                 "repo": "Image-Alignment-and-Panoramas",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "affine-transformation",
+                  "computer-vision",
+                  "cylindrical-panoramas",
+                  "homography",
+                  "image-alignment",
+                  "opencv-python",
+                  "panorama",
+                  "perspective-transformation",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
             }
@@ -1029,15 +1414,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T07:04:10.014Z",
+    "last_updated": "2026-08-29T04:33:19.662Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome resources for image alignment and stitching ...",
+      "homepage": null,
       "id": 227467409,
       "language": null,
+      "license": null,
       "last_commit": "2022-08-08T09:33:10Z",
+      "open_issues": 0,
       "owner": "tzxiang",
       "repo": "awesome-image-alignment-and-stitching",
-      "stars": 463
+      "stars": 463,
+      "topics": [
+        "alignment",
+        "awesome",
+        "awesome-list",
+        "computer-vision",
+        "stitching"
+      ]
     },
     "original_repository_sha": "b2ed7aa7e1eb24c6f3a548b5f9e1339a82f6beab",
     "enhanced_repository": "enhansome/enhansome-image-alignment-and-stitching",

@@ -6,7 +6,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,543 | 🐛 0 | 📅 2026-07-23
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
@@ -244,7 +244,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet [\[Codes\]](https://github.com/hmgoforth/PointNetLK) ⭐ 492 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
-* \[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [\[github\]](https://github.com/yzhq97/cnn-registration) ⭐ 459 | 🐛 25 | 🌐 Python | 📅 2020-12-28
+* \[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [\[github\]](https://github.com/yzhq97/cnn-registration) ⭐ 458 | 🐛 25 | 🌐 Python | 📅 2020-12-28
 
 * Recursive Cascaded Networks for Unsupervised Medical Image Registration, ICCV2019 [\[github\]](https://github.com/microsoft/Recursive-Cascaded-Networks) ⚠️ Archived
   Shengyu Zhao, Yue Dong, Eric I-Chao Chang, Yan Xu
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
