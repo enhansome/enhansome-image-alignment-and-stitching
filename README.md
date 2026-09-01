@@ -435,7 +435,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Gradient-based
 
-* \[**2019MM**] GP-GAN: Towards Realistic High-Resolution Image Blending  [\[Proj\]](http://wuhuikai.me/GP-GAN-Project/)  [\[github\]](https://github.com/wuhuikai/GP-GAN) ⭐ 472 | 🐛 2 | 🌐 Python | 📅 2020-03-27 :star:
+* \[**2019MM**] GP-GAN: Towards Realistic High-Resolution Image Blending  [\[Proj\]](http://wuhuikai.me/GP-GAN-Project/)  [\[github\]](https://github.com/wuhuikai/GP-GAN) ⭐ 473 | 🐛 2 | 🌐 Python | 📅 2020-03-27 :star:
 * \[2012TOG] Image Melding: Combining Inconsistent Images using Patch-based Synthesis [\[Proj/Code\]](https://www.ece.ucsb.edu/~psen/melding.html)
 * \[2010ECCV] Error-tolerant Image Compositing [\[Code\]](http://graphics.berkeley.edu/papers/Tao-ERR-2010-09/)
 * \[2007TOG] Efficient gradient-domain compositing using quadtrees \[in PS CS3] [\[Proj\]](http://www.agarwala.org/efficient_gdc/)
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._

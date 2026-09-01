@@ -1167,7 +1167,7 @@
                     "open_issues": 2,
                     "owner": "wuhuikai",
                     "repo": "GP-GAN",
-                    "stars": 472,
+                    "stars": 473,
                     "topics": [
                       "artificial-intelligence",
                       "chainer",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T01:35:38.321Z",
+    "last_updated": "2026-09-01T02:02:14.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
