@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
-            "stars": 1543,
+            "stars": 1544,
             "topics": [
               "awesome",
               "awesome-list",
@@ -547,7 +547,7 @@
                     "open_issues": 15,
                     "owner": "danini",
                     "repo": "magsac",
-                    "stars": 503,
+                    "stars": 504,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -839,7 +839,7 @@
                     "open_issues": 25,
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 458,
+                    "stars": 457,
                     "topics": [
                       "convolutional-neural-networks",
                       "image-registration"
@@ -1210,7 +1210,7 @@
                 "open_issues": 1,
                 "owner": "MenghanXia",
                 "repo": "ColorConsistency",
-                "stars": 88,
+                "stars": 89,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T01:23:20.533Z",
+    "last_updated": "2026-09-03T01:25:54.529Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",

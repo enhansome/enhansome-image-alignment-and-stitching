@@ -6,7 +6,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,543 | 🐛 0 | 📅 2026-07-23
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
@@ -176,7 +176,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,114 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
-* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 503 | 🐛 15 | 🌐 C++ | 📅 2026-03-09
+* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 504 | 🐛 15 | 🌐 C++ | 📅 2026-03-09
 
 * \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 339 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
 
@@ -244,7 +244,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet [\[Codes\]](https://github.com/hmgoforth/PointNetLK) ⭐ 492 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
-* \[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [\[github\]](https://github.com/yzhq97/cnn-registration) ⭐ 458 | 🐛 25 | 🌐 Python | 📅 2020-12-28
+* \[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [\[github\]](https://github.com/yzhq97/cnn-registration) ⭐ 457 | 🐛 25 | 🌐 Python | 📅 2020-12-28
 
 * Recursive Cascaded Networks for Unsupervised Medical Image Registration, ICCV2019 [\[github\]](https://github.com/microsoft/Recursive-Cascaded-Networks) ⚠️ Archived
   Shengyu Zhao, Yue Dong, Eric I-Chao Chang, Yan Xu
@@ -445,7 +445,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Dodging
 
-* \[**2019ISPRSJ**] A Closed-Form Solution for Multi-View Color Correction with Gradient Preservation [\[Code\]](https://github.com/MenghanXia/ColorConsistency) ⭐ 88 | 🐛 1 | 🌐 C++ | 📅 2022-07-07
+* \[**2019ISPRSJ**] A Closed-Form Solution for Multi-View Color Correction with Gradient Preservation [\[Code\]](https://github.com/MenghanXia/ColorConsistency) ⭐ 89 | 🐛 1 | 🌐 C++ | 📅 2022-07-07
 
   > \[2017ICCVW] Color Consistency Correction Based on Remapping Optimization for Image Stitching
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
