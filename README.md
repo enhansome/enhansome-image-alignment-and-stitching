@@ -423,7 +423,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[2018SIVP] Perception-based seam cutting for image stitching [\[Code\]](https://github.com/tlliao/Perception-based-seam-cutting) ⭐ 31 | 🐛 0 | 🌐 MATLAB | 📅 2025-12-05
 
-* \[2019SIVP] Quality evaluation-based iterative seam estimation for image stitching [\[Code\]](https://github.com/tlliao/Iterative-seam-estimation) ⭐ 18 | 🐛 0 | 🌐 MATLAB | 📅 2025-12-05
+* \[2019SIVP] Quality evaluation-based iterative seam estimation for image stitching [\[Code\]](https://github.com/tlliao/Iterative-seam-estimation) ⭐ 19 | 🐛 0 | 🌐 MATLAB | 📅 2025-12-05
 
 * Coarse-to-fine Seam Estimation for Image Stitching, arXiv2018.5
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._

@@ -1135,7 +1135,7 @@
                 "open_issues": 0,
                 "owner": "tlliao",
                 "repo": "Iterative-seam-estimation",
-                "stars": 18,
+                "stars": 19,
                 "topics": [
                   "image-stitching"
                 ]
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:23:12.220Z",
+    "last_updated": "2026-09-09T01:30:51.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
