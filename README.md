@@ -67,7 +67,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2016ECCV**] LIFT: Learned Invariant Feature Transform [\[Theano\]](https://github.com/cvlab-epfl/LIFT) ⭐ 494 | 🐛 1 | 🌐 Python | 📅 2017-11-06 [\[TF\]](https://github.com/cvlab-epfl/tf-lift) ⭐ 196 | 🐛 10 | 🌐 Python | 📅 2020-09-30 [\[Eduard Trulls\]](https://etrulls.github.io/)
 
-* \[**2018NeurIPS**] LF-Net: Learning Local Features from Images [\[github\]](https://github.com/vcg-uvic/lf-net-release) ⭐ 320 | 🐛 14 | 🌐 Python | 📅 2022-11-21
+* \[**2018NeurIPS**] LF-Net: Learning Local Features from Images [\[github\]](https://github.com/vcg-uvic/lf-net-release) ⭐ 321 | 🐛 14 | 🌐 Python | 📅 2022-11-21
 
 * GLAMpoints: Greedily Learned Accurate Match points, arXiv2019.8
 
@@ -176,7 +176,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,114 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
-* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 504 | 🐛 15 | 🌐 C++ | 📅 2026-03-09
+* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 505 | 🐛 15 | 🌐 C++ | 📅 2026-03-09
 
 * \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 339 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
 
@@ -535,7 +535,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Examples
 
-* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,071 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
+* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,072 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
 
 * Panorama stitching Project (Python) [\[Code\]](https://github.com/tsherlock/panorama) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2014-10-08 :star:
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

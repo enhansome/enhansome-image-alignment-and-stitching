@@ -159,7 +159,7 @@
                     "open_issues": 14,
                     "owner": "vcg-uvic",
                     "repo": "lf-net-release",
-                    "stars": 320,
+                    "stars": 321,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -547,7 +547,7 @@
                     "open_issues": 15,
                     "owner": "danini",
                     "repo": "magsac",
-                    "stars": 504,
+                    "stars": 505,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1343,7 +1343,7 @@
                 "open_issues": 35,
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
-                "stars": 2071,
+                "stars": 2072,
                 "topics": [
                   "bundle-adjustment",
                   "panorama",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T01:26:48.654Z",
+    "last_updated": "2026-09-11T01:27:09.553Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
