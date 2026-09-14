@@ -2,7 +2,7 @@
 
 A curated list of awesome resources for image alignment and stitching, etc. The list will be updated continuously.
 
-❗ An up-to-date paper list can be found [here](https://github.com/visionxiang/awesome-computational-photography) ⭐ 187 | 🐛 1 | 📅 2025-07-07.
+❗ An up-to-date paper list can be found [here](https://github.com/visionxiang/awesome-computational-photography) ⭐ 188 | 🐛 1 | 📅 2025-07-07.
 
 ## Tutorials
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
