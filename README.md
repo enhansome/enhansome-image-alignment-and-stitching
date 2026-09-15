@@ -2,11 +2,11 @@
 
 A curated list of awesome resources for image alignment and stitching, etc. The list will be updated continuously.
 
-❗ An up-to-date paper list can be found [here](https://github.com/visionxiang/awesome-computational-photography) ⭐ 188 | 🐛 1 | 📅 2025-07-07.
+❗ An up-to-date paper list can be found [here](https://github.com/visionxiang/awesome-computational-photography) ⭐ 189 | 🐛 1 | 📅 2025-07-07.
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,544 | 🐛 0 | 📅 2026-07-23
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,546 | 🐛 0 | 📅 2026-07-23
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
@@ -75,7 +75,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Line Detection
 
-* \[**2019CVPR**] Learning Attraction Field Representation for Robust Line Segment Detection [\[github\]](https://github.com/cherubicXN/afm_cvpr2019) ⭐ 302 | 🐛 14 | 🌐 Python | 📅 2019-06-23
+* \[**2019CVPR**] Learning Attraction Field Representation for Robust Line Segment Detection [\[github\]](https://github.com/cherubicXN/afm_cvpr2019) ⭐ 303 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
 * \[**2018CVPR**] \[Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [\[github\]](https://github.com/huangkuns/wireframe) ⭐ 237 | 🐛 20 | 🌐 Python | 📅 2022-08-06
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
