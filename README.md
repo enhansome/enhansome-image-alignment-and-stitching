@@ -178,7 +178,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 505 | 🐛 15 | 🌐 C++ | 📅 2026-03-09
 
-* \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 339 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
+* \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 340 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
 
 * \[**2018CVPR**] Latent RANSAC [\[Code\]](https://github.com/rlit/LatentRANSAC) ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2018-06-04
 
@@ -253,7 +253,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * SDRSAC: Semi-definite-Based Randomized Approach for Robust Point Cloud Registration Without Correspondences [\[Codes\]](https://github.com/intellhave/SDRSAC) ⭐ 116 | 🐛 7 | 🌐 MATLAB | 📅 2019-06-28
 
-* \[**2018ECCV**] Multimodal Image Alignment Through a Multiscale Chain of Neural Networks with Application to Remote Sensing [\[Homepage\]](https://www.lri.fr/~gcharpia/alignment/) [\[Code\]](https://github.com/Lydorn/mapalignment) ⭐ 79 | 🐛 3 | 🌐 Python | 📅 2020-09-03
+* \[**2018ECCV**] Multimodal Image Alignment Through a Multiscale Chain of Neural Networks with Application to Remote Sensing [\[Homepage\]](https://www.lri.fr/~gcharpia/alignment/) [\[Code\]](https://github.com/Lydorn/mapalignment) ⭐ 80 | 🐛 3 | 🌐 Python | 📅 2020-09-03
 
 * Coarse to fine non-rigid registration: a chain of scale-specific neural networks for multimodal image alignment with application to remote sensing, arXiv2018.2
 
@@ -535,7 +535,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Examples
 
-* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,072 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
+* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,073 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
 
 * Panorama stitching Project (Python) [\[Code\]](https://github.com/tsherlock/panorama) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2014-10-08 :star:
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._

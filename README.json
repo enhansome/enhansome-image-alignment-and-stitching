@@ -568,7 +568,7 @@
                     "open_issues": 1,
                     "owner": "vislearn",
                     "repo": "ngransac",
-                    "stars": 339,
+                    "stars": 340,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -930,7 +930,7 @@
                     "open_issues": 3,
                     "owner": "Lydorn",
                     "repo": "mapalignment",
-                    "stars": 79,
+                    "stars": 80,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1343,7 +1343,7 @@
                 "open_issues": 35,
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
-                "stars": 2072,
+                "stars": 2073,
                 "topics": [
                   "bundle-adjustment",
                   "panorama",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T01:53:36.012Z",
+    "last_updated": "2026-09-16T01:38:28.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
