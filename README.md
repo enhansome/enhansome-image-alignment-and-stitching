@@ -244,7 +244,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet [\[Codes\]](https://github.com/hmgoforth/PointNetLK) ⭐ 492 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
-* \[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [\[github\]](https://github.com/yzhq97/cnn-registration) ⭐ 457 | 🐛 25 | 🌐 Python | 📅 2020-12-28
+* \[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [\[github\]](https://github.com/yzhq97/cnn-registration) ⭐ 458 | 🐛 25 | 🌐 Python | 📅 2020-12-28
 
 * Recursive Cascaded Networks for Unsupervised Medical Image Registration, ICCV2019 [\[github\]](https://github.com/microsoft/Recursive-Cascaded-Networks) ⚠️ Archived
   Shengyu Zhao, Yue Dong, Eric I-Chao Chang, Yan Xu
@@ -369,7 +369,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Dsitortion Preserving
 
-* \[**2016ECCV**] Natural Image Stitching with the Global Similarity Prior [\[Proj\]](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/) [\[MacOS\]](https://github.com/nothinglo/NISwGSP) ⭐ 344 | 🐛 27 | 🌐 C | 📅 2018-05-15 [\[CCC\]](https://github.com/Yannnnnnnnnnnn/NISwGSP) ⭐ 52 | 🐛 1 | 🌐 C++ | 📅 2019-02-19 [\[VS\]](https://github.com/firdauslubis88/NISwGSP) ⭐ 67 | 🐛 18 | 🌐 C++ | 📅 2020-11-01
+* \[**2016ECCV**] Natural Image Stitching with the Global Similarity Prior [\[Proj\]](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/) [\[MacOS\]](https://github.com/nothinglo/NISwGSP) ⭐ 345 | 🐛 27 | 🌐 C | 📅 2018-05-15 [\[CCC\]](https://github.com/Yannnnnnnnnnnn/NISwGSP) ⭐ 52 | 🐛 1 | 🌐 C++ | 📅 2019-02-19 [\[VS\]](https://github.com/firdauslubis88/NISwGSP) ⭐ 67 | 🐛 18 | 🌐 C++ | 📅 2020-11-01
 
 * \[**2019TIP**] Single-Perspective Warps in Natural Image Stitching [\[Code\]](https://github.com/tlliao/Single-perspective-warps) ⭐ 43 | 🐛 3 | 🌐 MATLAB | 📅 2025-12-05 [\[Code-multi\]](https://github.com/tlliao/Single-perspective-warps-multiple)
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

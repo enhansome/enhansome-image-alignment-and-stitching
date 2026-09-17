@@ -839,7 +839,7 @@
                     "open_issues": 25,
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 457,
+                    "stars": 458,
                     "topics": [
                       "convolutional-neural-networks",
                       "image-registration"
@@ -1025,7 +1025,7 @@
                 "open_issues": 27,
                 "owner": "nothinglo",
                 "repo": "NISwGSP",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T01:38:28.333Z",
+    "last_updated": "2026-09-17T01:40:58.991Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
