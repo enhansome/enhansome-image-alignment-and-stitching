@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
-            "stars": 1546,
+            "stars": 1545,
             "topics": [
               "awesome",
               "awesome-list",
@@ -51,7 +51,7 @@
             "open_issues": 1,
             "owner": "natandrade",
             "repo": "Tutorial-Medical-Image-Registration",
-            "stars": 227,
+            "stars": 226,
             "topics": [
               "medical-image-analysis",
               "medical-image-processing",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T01:34:07.739Z",
+    "last_updated": "2026-09-20T01:37:05.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",

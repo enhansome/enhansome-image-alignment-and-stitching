@@ -6,11 +6,11 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,546 | 🐛 0 | 📅 2026-07-23
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,545 | 🐛 0 | 📅 2026-07-23
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
-* **A Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches** [\[PDF\&Slides\]](https://github.com/natandrade/Tutorial-Medical-Image-Registration) ⭐ 227 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-12-28
+* **A Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches** [\[PDF\&Slides\]](https://github.com/natandrade/Tutorial-Medical-Image-Registration) ⭐ 226 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2019-12-28
 
   A tutorial for anyone who wants to learn Medical Image Registration, by Natan Andrade, Fabio Augusto Faria, Fábio Augusto Menocci Cappabianco, SIBGRAPI2018
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
