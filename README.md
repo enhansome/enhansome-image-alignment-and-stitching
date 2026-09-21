@@ -445,7 +445,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Dodging
 
-* \[**2019ISPRSJ**] A Closed-Form Solution for Multi-View Color Correction with Gradient Preservation [\[Code\]](https://github.com/MenghanXia/ColorConsistency) ⭐ 89 | 🐛 1 | 🌐 C++ | 📅 2022-07-07
+* \[**2019ISPRSJ**] A Closed-Form Solution for Multi-View Color Correction with Gradient Preservation [\[Code\]](https://github.com/MenghanXia/ColorConsistency) ⭐ 90 | 🐛 1 | 🌐 C++ | 📅 2022-07-07
 
   > \[2017ICCVW] Color Consistency Correction Based on Remapping Optimization for Image Stitching
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
