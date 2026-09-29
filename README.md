@@ -244,7 +244,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet [\[Codes\]](https://github.com/hmgoforth/PointNetLK) ⭐ 492 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
-* \[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [\[github\]](https://github.com/yzhq97/cnn-registration) ⭐ 458 | 🐛 25 | 🌐 Python | 📅 2020-12-28
+* \[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [\[github\]](https://github.com/yzhq97/cnn-registration) ⭐ 459 | 🐛 25 | 🌐 Python | 📅 2020-12-28
 
 * Recursive Cascaded Networks for Unsupervised Medical Image Registration, ICCV2019 [\[github\]](https://github.com/microsoft/Recursive-Cascaded-Networks) ⚠️ Archived
   Shengyu Zhao, Yue Dong, Eric I-Chao Chang, Yan Xu
@@ -467,7 +467,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Video Stitching
 
-* \[**2018TIP**] Dynamic Video Stitching via Shakiness Removing [\[github\]](https://github.com/SuTanTank/VideoStitchingViaShakinessRemoving) ⭐ 126 | 🐛 8 | 🌐 MATLAB | 📅 2022-07-09
+* \[**2018TIP**] Dynamic Video Stitching via Shakiness Removing [\[github\]](https://github.com/SuTanTank/VideoStitchingViaShakinessRemoving) ⭐ 127 | 🐛 8 | 🌐 MATLAB | 📅 2022-07-09
 
 * \[**2019BMVC**] \[**CNNStitch**] Video Stitching for Linear Camera Arrays \[CNN-based]  [\[Proj\]](http://vllab.ucmerced.edu/wlai24/video_stitching/)  :star:
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._

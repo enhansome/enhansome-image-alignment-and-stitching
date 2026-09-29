@@ -839,7 +839,7 @@
                     "open_issues": 25,
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 458,
+                    "stars": 459,
                     "topics": [
                       "convolutional-neural-networks",
                       "image-registration"
@@ -1263,7 +1263,7 @@
             "open_issues": 8,
             "owner": "SuTanTank",
             "repo": "VideoStitchingViaShakinessRemoving",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "video-stabilization",
               "video-stitching"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:58:23.725Z",
+    "last_updated": "2026-09-29T02:43:42.502Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
