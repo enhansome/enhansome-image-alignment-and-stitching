@@ -250,7 +250,7 @@
                     "open_issues": 12,
                     "owner": "svip-lab",
                     "repo": "PPGNet",
-                    "stars": 181,
+                    "stars": 180,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T02:43:42.502Z",
+    "last_updated": "2026-09-30T02:21:52.755Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",

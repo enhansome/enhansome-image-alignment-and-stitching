@@ -81,7 +81,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * Edge Drawing/EDLines/LBD Descriptors/LSD [\[Code\]](https://github.com/mtamburrano/LBD_Descriptor) ⭐ 187 | 🐛 5 | 🌐 C++ | 📅 2015-07-10 [\[Code2\]](https://github.com/Vincentqyw/LineSegmentsDetection) ⭐ 287 | 🐛 1 | 🌐 Shell | 📅 2025-02-17
 
-* \[**2019CVPR**] PPGNet: Learning Point-Pair Graph for Line Segment Detection [\[github\]](https://github.com/svip-lab/PPGNet) ⭐ 181 | 🐛 12 | 🌐 Python | 📅 2019-07-29
+* \[**2019CVPR**] PPGNet: Learning Point-Pair Graph for Line Segment Detection [\[github\]](https://github.com/svip-lab/PPGNet) ⭐ 180 | 🐛 12 | 🌐 Python | 📅 2019-07-29
 
 * \[**2017PAMI**] A Novel Linelet-based Representation for Line Segment Detection [\[Code\]](https://github.com/NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB) ⭐ 31 | 🐛 2 | 🌐 Matlab | 📅 2017-10-16
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
