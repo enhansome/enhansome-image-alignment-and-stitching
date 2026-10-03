@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Repo: Image registration",
-          "description": null,
+          "description": "Awesome-Image-Registration-Organization/awesome-image-registration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
-            "stars": 1546,
+            "stars": 1547,
             "topics": [
               "awesome",
               "awesome-list",
@@ -38,7 +38,7 @@
         {
           "node_type": "item",
           "title": "A Practical Review on Medical Image Registration: from Rigid to Deep Learning based Approaches [PDF&Slides]",
-          "description": null,
+          "description": "natandrade/Tutorial-Medical-Image-Registration",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -65,7 +65,7 @@
         {
           "node_type": "item",
           "title": "MICCAI2019 Tutorial: Learn2Reg: Tutorial on Deep Learning in Medical Image Registration [Homepage]",
-          "description": null,
+          "description": "learn2reg/tutorials2019",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -86,7 +86,7 @@
         {
           "node_type": "item",
           "title": "OpenCV Stitching Tutorial",
-          "description": null,
+          "description": "OpenStitching/stitching_tutorial",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,7 +146,7 @@
                 {
                   "node_type": "item",
                   "title": "[2018NeurIPS] LF-Net: Learning Local Features from Images [github]",
-                  "description": null,
+                  "description": "vcg-uvic/lf-net-release",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -174,7 +174,7 @@
                 {
                   "node_type": "item",
                   "title": "[2019CVPR] Learning Attraction Field Representation for Robust Line Segment Detection [github]",
-                  "description": null,
+                  "description": "cherubicXN/afm_cvpr2019",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -195,7 +195,7 @@
                 {
                   "node_type": "item",
                   "title": "[2018CVPR] [Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [github]",
-                  "description": null,
+                  "description": "huangkuns/wireframe",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -237,7 +237,7 @@
                 {
                   "node_type": "item",
                   "title": "[2019CVPR] PPGNet: Learning Point-Pair Graph for Line Segment Detection [github]",
-                  "description": null,
+                  "description": "svip-lab/PPGNet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -258,7 +258,7 @@
                 {
                   "node_type": "item",
                   "title": "[2017PAMI] A Novel Linelet-based Representation for Line Segment Detection [Code]",
-                  "description": null,
+                  "description": "NamgyuCho/Linelet-code-and-YorkUrban-LineSegment-DB",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -286,7 +286,7 @@
                 {
                   "node_type": "item",
                   "title": "[2018TIP] Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection [github]",
-                  "description": null,
+                  "description": "AlanLuSun/High-quality-ellipse-detection",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -312,7 +312,7 @@
                 {
                   "node_type": "item",
                   "title": "[2017TIP] A Fast Ellipse Detector Using Projective Invariant Pruning [Code]",
-                  "description": null,
+                  "description": "dlut-dimt/ellipse-detector",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -345,7 +345,7 @@
             {
               "node_type": "item",
               "title": "[2016CVPR] Accumulated Stability Voting: A Robust Descriptor from Descriptors of Multiple Scales [Proj]",
-              "description": "[Code]",
+              "description": "shamangary/ASV",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -385,7 +385,7 @@
                 {
                   "node_type": "item",
                   "title": "[2019ICCV] Learning Two-View Correspondences and Geometry Using Order-Aware Network [Codes]",
-                  "description": null,
+                  "description": "zjhthu/OANet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -412,7 +412,7 @@
                 {
                   "node_type": "item",
                   "title": "[2019CVPR] RF-Net: An End-to-End Image Matching Network based on Receptive Field [Code]",
-                  "description": null,
+                  "description": "xuelunshen/rfnet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -433,7 +433,7 @@
                 {
                   "node_type": "item",
                   "title": "[2018PAMI] CODE: Coherence based Decision Boundaries for Feature Matching [Code]",
-                  "description": null,
+                  "description": "seravee08/WideBaselineFeatureMatcher_PAMI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -454,7 +454,7 @@
                 {
                   "node_type": "item",
                   "title": "[2013CVPR] Joint Spectral Correspondence for Disparate Image Matching [Code]",
-                  "description": null,
+                  "description": "chaitanya100100/Spectral-Analysis-for-Image-Matching",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -479,7 +479,7 @@
                 {
                   "node_type": "item",
                   "title": "[2017MM] Deep Matching and Validation Network: An End-to-End Solution to Constrained Image Splicing Localization and Detection [Codes]",
-                  "description": null,
+                  "description": "maroofmf/image_splicing_ICT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -534,7 +534,7 @@
                 {
                   "node_type": "item",
                   "title": "[2019CVPR] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [Code]",
-                  "description": null,
+                  "description": "danini/magsac",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -576,7 +576,7 @@
                 {
                   "node_type": "item",
                   "title": "[2018CVPR] Latent RANSAC [Code]",
-                  "description": null,
+                  "description": "rlit/LatentRANSAC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -610,7 +610,7 @@
                 {
                   "node_type": "item",
                   "title": "[2019ICCV] Bridging the Domain Gap for Ground-to-Aerial Image Matching [Code]",
-                  "description": null,
+                  "description": "kregmi/cross-view-image-matching",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -659,7 +659,7 @@
             {
               "node_type": "item",
               "title": "Content-Aware Unsupervised Deep Homography Estimation, arXiv2019.9 [Code]",
-              "description": null,
+              "description": "JirongZhang/DeepHomography",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -680,7 +680,7 @@
             {
               "node_type": "item",
               "title": "[2018RAL] Unsupervised Deep Homography: A Fast and Robust Homography Estimation Model, IEEE RAL [Code]",
-              "description": null,
+              "description": "tynguyen/unsupervisedDeepHomographyRAL2018",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +729,7 @@
             {
               "node_type": "item",
               "title": "[2018ACCV] Rethinking Planar Homography Estimation Using Perspective Fields [Code]",
-              "description": null,
+              "description": "ruizengalways/PFNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -754,7 +754,7 @@
             {
               "node_type": "item",
               "title": "[2019ICCV] Homography from two orientation- and scale-covariant features [Code]",
-              "description": null,
+              "description": "danini/homography-from-sift-features",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -775,7 +775,7 @@
             {
               "node_type": "item",
               "title": "[2017ICCVW] Homography Estimation from Image Pairs with Hierarchical Convolutional Networks [Code]",
-              "description": null,
+              "description": "erlikn/tf_dh_py",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -805,7 +805,7 @@
                 {
                   "node_type": "item",
                   "title": "PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet [Codes]",
-                  "description": null,
+                  "description": "hmgoforth/PointNetLK",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -826,7 +826,7 @@
                 {
                   "node_type": "item",
                   "title": "[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [github]",
-                  "description": null,
+                  "description": "inrainbws/cnn-registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -875,7 +875,7 @@
                 {
                   "node_type": "item",
                   "title": "Metric Learning for Image Registration [github]",
-                  "description": null,
+                  "description": "uncbiag/registration",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -896,7 +896,7 @@
                 {
                   "node_type": "item",
                   "title": "SDRSAC: Semi-definite-Based Randomized Approach for Robust Point Cloud Registration Without Correspondences [Codes]",
-                  "description": null,
+                  "description": "intellhave/SDRSAC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -917,7 +917,7 @@
                 {
                   "node_type": "item",
                   "title": "[2018ECCV] Multimodal Image Alignment Through a Multiscale Chain of Neural Networks with Application to Remote Sensing [Homepage]",
-                  "description": "[Code]",
+                  "description": "Lydorn/mapalignment",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -945,7 +945,7 @@
                 {
                   "node_type": "item",
                   "title": "Closing the Gap between Deep and Conventional Image Registration using Probabilistic Dense Displacement Networks [Codes]",
-                  "description": null,
+                  "description": "multimodallearning/pdd_net",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -984,7 +984,7 @@
             {
               "node_type": "item",
               "title": "[2018TMM] Parallax-Tolerant Image Stitching Based on Robust Elastic Warping [Code]",
-              "description": null,
+              "description": "gain2217/Robust_Elastic_Warping",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1065,7 +1065,7 @@
             {
               "node_type": "item",
               "title": "[2016ACCV] Pano2Vid: Automatic Cinematography for Watching 360° Videos [Proj]",
-              "description": "[Code]",
+              "description": "sammy-su/Pano2Vid",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1099,7 +1099,7 @@
             {
               "node_type": "item",
               "title": "[2018SIVP] Perception-based seam cutting for image stitching [Code]",
-              "description": null,
+              "description": "tlliao/Perception-based-seam-cutting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1122,7 +1122,7 @@
             {
               "node_type": "item",
               "title": "[2019SIVP] Quality evaluation-based iterative seam estimation for image stitching [Code]",
-              "description": null,
+              "description": "tlliao/Iterative-seam-estimation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1197,7 +1197,7 @@
             {
               "node_type": "item",
               "title": "[2019ISPRSJ] A Closed-Form Solution for Multi-View Color Correction with Gradient Preservation [Code]",
-              "description": null,
+              "description": "MenghanXia/ColorConsistency",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1218,7 +1218,7 @@
             {
               "node_type": "item",
               "title": "[2016CVPR] Efficient and Robust Color Consistency for Community Photo Collections [Homepage]",
-              "description": "[Code]",
+              "description": "syncle/photo_consistency",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1250,7 +1250,7 @@
         {
           "node_type": "item",
           "title": "[2018TIP] Dynamic Video Stitching via Shakiness Removing [github]",
-          "description": null,
+          "description": "SuTanTank/VideoStitchingViaShakinessRemoving",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1301,7 +1301,7 @@
         {
           "node_type": "item",
           "title": "[2018CGF] Deep Video Stabilization Using Adversarial Networks [Note]",
-          "description": null,
+          "description": "chenyuanpengcyp/video-stabilization",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1376,7 +1376,7 @@
             {
               "node_type": "item",
               "title": "Image-Alignment-and-Panoramas [Code]",
-              "description": null,
+              "description": "TejasNaikk/Image-Alignment-and-Panoramas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:18:44.213Z",
+    "last_updated": "2026-10-03T04:51:49.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
