@@ -863,7 +863,7 @@
                     "open_issues": 24,
                     "owner": "microsoft",
                     "repo": "Recursive-Cascaded-Networks",
-                    "stars": 373,
+                    "stars": 374,
                     "topics": [
                       "iccv2019",
                       "medical-image-registration",
@@ -1343,7 +1343,7 @@
                 "open_issues": 35,
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
-                "stars": 2074,
+                "stars": 2075,
                 "topics": [
                   "bundle-adjustment",
                   "panorama",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:49.450Z",
+    "last_updated": "2026-10-04T02:51:16.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
