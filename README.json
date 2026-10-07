@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:42:39.671Z",
+    "last_updated": "2026-10-07T02:41:12.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
@@ -1426,7 +1426,7 @@
       "open_issues": 0,
       "owner": "tzxiang",
       "repo": "awesome-image-alignment-and-stitching",
-      "stars": 465,
+      "stars": 464,
       "topics": [
         "alignment",
         "awesome",
