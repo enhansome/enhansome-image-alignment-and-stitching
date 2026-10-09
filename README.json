@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
-            "stars": 1549,
+            "stars": 1550,
             "topics": [
               "awesome",
               "awesome-list",
@@ -818,7 +818,7 @@
                     "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 492,
+                    "stars": 493,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T02:54:05.403Z",
+    "last_updated": "2026-10-09T03:04:07.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
