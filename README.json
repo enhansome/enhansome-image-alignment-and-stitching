@@ -159,7 +159,7 @@
                     "open_issues": 14,
                     "owner": "vcg-uvic",
                     "repo": "lf-net-release",
-                    "stars": 321,
+                    "stars": 320,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -187,7 +187,7 @@
                     "open_issues": 14,
                     "owner": "cherubicXN",
                     "repo": "afm_cvpr2019",
-                    "stars": 303,
+                    "stars": 302,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -520,7 +520,7 @@
                     "open_issues": 10,
                     "owner": "JiawangBian",
                     "repo": "GMS-Feature-Matcher",
-                    "stars": 1113,
+                    "stars": 1114,
                     "topics": [
                       "feature",
                       "gms",
@@ -672,7 +672,7 @@
                 "open_issues": 32,
                 "owner": "JirongZhang",
                 "repo": "DeepHomography",
-                "stars": 366,
+                "stars": 365,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -788,7 +788,7 @@
                 "open_issues": 2,
                 "owner": "erlikn",
                 "repo": "tf_dh_py",
-                "stars": 23,
+                "stars": 22,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T03:04:07.885Z",
+    "last_updated": "2026-10-10T02:44:31.453Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",

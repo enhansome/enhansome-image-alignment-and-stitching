@@ -67,7 +67,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2016ECCV**] LIFT: Learned Invariant Feature Transform [\[Theano\]](https://github.com/cvlab-epfl/LIFT) ⭐ 494 | 🐛 1 | 🌐 Python | 📅 2017-11-06 [\[TF\]](https://github.com/cvlab-epfl/tf-lift) ⭐ 196 | 🐛 10 | 🌐 Python | 📅 2020-09-30 [\[Eduard Trulls\]](https://etrulls.github.io/)
 
-* \[**2018NeurIPS**] LF-Net: Learning Local Features from Images [\[github\]](https://github.com/vcg-uvic/lf-net-release) ⭐ 321 | 🐛 14 | 🌐 Python | 📅 2022-11-21
+* \[**2018NeurIPS**] LF-Net: Learning Local Features from Images [\[github\]](https://github.com/vcg-uvic/lf-net-release) ⭐ 320 | 🐛 14 | 🌐 Python | 📅 2022-11-21
 
 * GLAMpoints: Greedily Learned Accurate Match points, arXiv2019.8
 
@@ -75,7 +75,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Line Detection
 
-* \[**2019CVPR**] Learning Attraction Field Representation for Robust Line Segment Detection [\[github\]](https://github.com/cherubicXN/afm_cvpr2019) ⭐ 303 | 🐛 14 | 🌐 Python | 📅 2019-06-23
+* \[**2019CVPR**] Learning Attraction Field Representation for Robust Line Segment Detection [\[github\]](https://github.com/cherubicXN/afm_cvpr2019) ⭐ 302 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
 * \[**2018CVPR**] \[Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [\[github\]](https://github.com/huangkuns/wireframe) ⭐ 237 | 🐛 20 | 🌐 Python | 📅 2022-08-06
 
@@ -174,7 +174,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - OutlierRemoval
 
-* \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,113 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
+* \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,114 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
 * \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 505 | 🐛 15 | 🌐 C++ | 📅 2026-03-09
 
@@ -200,7 +200,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Homography
 
-* Content-Aware Unsupervised Deep Homography Estimation, arXiv2019.9 [\[Code\]](https://github.com/JirongZhang/DeepHomography) ⭐ 366 | 🐛 32 | 🌐 Python | 📅 2021-04-12
+* Content-Aware Unsupervised Deep Homography Estimation, arXiv2019.9 [\[Code\]](https://github.com/JirongZhang/DeepHomography) ⭐ 365 | 🐛 32 | 🌐 Python | 📅 2021-04-12
 
 * \[2018RAL] Unsupervised Deep Homography: A Fast and Robust Homography Estimation Model, IEEE RAL [\[Code\]](https://github.com/tynguyen/unsupervisedDeepHomographyRAL2018) ⭐ 290 | 🐛 4 | 🌐 Python | 📅 2018-04-23
 
@@ -210,7 +210,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2019ICCV**] Homography from two orientation- and scale-covariant features [\[Code\]](https://github.com/danini/homography-from-sift-features) ⭐ 28 | 🐛 0 | 🌐 MATLAB | 📅 2019-10-24
 
-* \[2017ICCVW] Homography Estimation from Image Pairs with Hierarchical Convolutional Networks [\[Code\]](https://github.com/erlikn/tf_dh_py) ⭐ 23 | 🐛 2 | 🌐 Python | 📅 2019-08-23
+* \[2017ICCVW] Homography Estimation from Image Pairs with Hierarchical Convolutional Networks [\[Code\]](https://github.com/erlikn/tf_dh_py) ⭐ 22 | 🐛 2 | 🌐 Python | 📅 2019-08-23
 
 * [Homography-Estimation-List\_pwc](https://paperswithcode.com/task/homography-estimation/latest)
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
