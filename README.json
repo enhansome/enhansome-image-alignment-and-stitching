@@ -1293,7 +1293,7 @@
             "open_issues": 9,
             "owner": "cxjyxxme",
             "repo": "deep-online-video-stabilization",
-            "stars": 58,
+            "stars": 59,
             "topics": []
           },
           "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:44:31.453Z",
+    "last_updated": "2026-10-11T02:09:56.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",

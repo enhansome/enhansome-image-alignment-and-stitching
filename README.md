@@ -491,7 +491,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Video Stabilization
 
-* \[**2019TIP**] Deep Online Video Stabilization With Multi-Grid Warping Transformation Learning [\[Code\]](https://github.com/cxjyxxme/deep-online-video-stabilization) ⭐ 58 | 🐛 9 | 🌐 Python | 📅 2019-02-26 [\[DebugNote\]](https://github.com/24werewolf/video-stabilization/tree/0635bc287a0a631d24807161e037e8d694a1f0f5/code/deep-online-video-stabilization-master) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2019-06-14 [\[Note\]](https://github.com/24werewolf/video-stabilization/blob/0635bc287a0a631d24807161e037e8d694a1f0f5/paper/Deep%20Online%20Video%20Stabilization%20with%20Multi-grid.md) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2019-06-14  Deep Online Video Stabilization, arXiv2018
+* \[**2019TIP**] Deep Online Video Stabilization With Multi-Grid Warping Transformation Learning [\[Code\]](https://github.com/cxjyxxme/deep-online-video-stabilization) ⭐ 59 | 🐛 9 | 🌐 Python | 📅 2019-02-26 [\[DebugNote\]](https://github.com/24werewolf/video-stabilization/tree/0635bc287a0a631d24807161e037e8d694a1f0f5/code/deep-online-video-stabilization-master) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2019-06-14 [\[Note\]](https://github.com/24werewolf/video-stabilization/blob/0635bc287a0a631d24807161e037e8d694a1f0f5/paper/Deep%20Online%20Video%20Stabilization%20with%20Multi-grid.md) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2019-06-14  Deep Online Video Stabilization, arXiv2018
 
 * \[2018CGF] Deep Video Stabilization Using Adversarial Networks [\[Note\]](https://github.com/24werewolf/video-stabilization/blob/0635bc287a0a631d24807161e037e8d694a1f0f5/paper/Deep%20Video%20Stabilization%20Using%20Adversarial%20Networks.md) ⭐ 2 | 🐛 2 | 🌐 Python | 📅 2019-06-14
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
