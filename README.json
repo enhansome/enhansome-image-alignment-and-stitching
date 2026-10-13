@@ -520,7 +520,7 @@
                     "open_issues": 10,
                     "owner": "JiawangBian",
                     "repo": "GMS-Feature-Matcher",
-                    "stars": 1114,
+                    "stars": 1113,
                     "topics": [
                       "feature",
                       "gms",
@@ -547,7 +547,7 @@
                     "open_issues": 15,
                     "owner": "danini",
                     "repo": "magsac",
-                    "stars": 505,
+                    "stars": 504,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -672,7 +672,7 @@
                 "open_issues": 32,
                 "owner": "JirongZhang",
                 "repo": "DeepHomography",
-                "stars": 365,
+                "stars": 366,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1343,7 +1343,7 @@
                 "open_issues": 35,
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
-                "stars": 2076,
+                "stars": 2074,
                 "topics": [
                   "bundle-adjustment",
                   "panorama",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:38:36.026Z",
+    "last_updated": "2026-10-13T03:51:08.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
