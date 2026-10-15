@@ -249,7 +249,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 * Recursive Cascaded Networks for Unsupervised Medical Image Registration, ICCV2019 [\[github\]](https://github.com/microsoft/Recursive-Cascaded-Networks) ⚠️ Archived
   Shengyu Zhao, Yue Dong, Eric I-Chao Chang, Yan Xu
 
-* Metric Learning for Image Registration [\[github\]](https://github.com/uncbiag/registration) ⭐ 294 | 🐛 1 | 🌐 TeX | 📅 2019-11-14
+* Metric Learning for Image Registration [\[github\]](https://github.com/uncbiag/registration) ⭐ 295 | 🐛 1 | 🌐 TeX | 📅 2019-11-14
 
 * SDRSAC: Semi-definite-Based Randomized Approach for Robust Point Cloud Registration Without Correspondences [\[Codes\]](https://github.com/intellhave/SDRSAC) ⭐ 116 | 🐛 7 | 🌐 MATLAB | 📅 2019-06-28
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._

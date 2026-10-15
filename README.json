@@ -888,7 +888,7 @@
                     "open_issues": 1,
                     "owner": "uncbiag",
                     "repo": "registration",
-                    "stars": 294,
+                    "stars": 295,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T02:08:55.967Z",
+    "last_updated": "2026-10-15T01:49:31.108Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
@@ -1426,7 +1426,7 @@
       "open_issues": 0,
       "owner": "tzxiang",
       "repo": "awesome-image-alignment-and-stitching",
-      "stars": 464,
+      "stars": 465,
       "topics": [
         "alignment",
         "awesome",
