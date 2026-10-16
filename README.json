@@ -544,7 +544,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-03-09T20:31:00Z",
-                    "open_issues": 15,
+                    "open_issues": 16,
                     "owner": "danini",
                     "repo": "magsac",
                     "stars": 504,
@@ -1343,7 +1343,7 @@
                 "open_issues": 35,
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
-                "stars": 2075,
+                "stars": 2074,
                 "topics": [
                   "bundle-adjustment",
                   "panorama",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:49:31.108Z",
+    "last_updated": "2026-10-16T01:38:23.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
