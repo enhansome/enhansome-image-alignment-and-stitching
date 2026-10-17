@@ -839,7 +839,7 @@
                     "open_issues": 25,
                     "owner": "inrainbws",
                     "repo": "cnn-registration",
-                    "stars": 459,
+                    "stars": 460,
                     "topics": [
                       "convolutional-neural-networks",
                       "image-registration"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:38:23.953Z",
+    "last_updated": "2026-10-17T01:31:34.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
