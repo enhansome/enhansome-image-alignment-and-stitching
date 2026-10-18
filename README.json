@@ -15,7 +15,7 @@
             "id": 218470804,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-07-23T06:17:17Z",
+            "last_commit": "2026-10-17T08:26:41Z",
             "open_issues": 0,
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
@@ -721,7 +721,7 @@
                 "open_issues": 2,
                 "owner": "alexhagiopol",
                 "repo": "deep_homography_estimation",
-                "stars": 47,
+                "stars": 48,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -818,7 +818,7 @@
                     "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 493,
+                    "stars": 494,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T01:31:34.636Z",
+    "last_updated": "2026-10-18T01:30:46.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",

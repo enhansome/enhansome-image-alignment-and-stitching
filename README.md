@@ -6,7 +6,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,550 | 🐛 0 | 📅 2026-07-23
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,550 | 🐛 0 | 📅 2026-10-17
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
@@ -204,7 +204,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[2018RAL] Unsupervised Deep Homography: A Fast and Robust Homography Estimation Model, IEEE RAL [\[Code\]](https://github.com/tynguyen/unsupervisedDeepHomographyRAL2018) ⭐ 290 | 🐛 4 | 🌐 Python | 📅 2018-04-23
 
-* \[2016RSSW] \[HomographyNet] Deep Image Homography Estimation, RSSW2016 [\[Note\]](https://mez.github.io/2017/07/21/homographynet-deep-image-homography-estimation/) [\[Note2\]](https://blog.csdn.net/miracle0_0/article/details/79640016) [\[unofficial1-tf\]](https://github.com/alexhagiopol/deep_homography_estimation) ⭐ 47 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2017-05-15 [\[unofficial2-tf\]](https://github.com/yishiliuhuasheng/deep_image_homography_estimation) ⭐ 48 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2017-08-18 [\[unofficial3\]](https://github.com/mez/deep_homography_estimation) ⭐ 57 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2017-07-22 [\[unofficial4-pytorch\]](https://github.com/mazenmel/Deep-homography-estimation-Pytorch) ⭐ 153 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-05-21 [\[unofficial5-keras\]](https://github.com/richard-guinto/homographynet) ⭐ 47 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2017-10-25 [\[unofficial6-keras\]](https://github.com/fjbriones/deep-homography) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2017-10-25
+* \[2016RSSW] \[HomographyNet] Deep Image Homography Estimation, RSSW2016 [\[Note\]](https://mez.github.io/2017/07/21/homographynet-deep-image-homography-estimation/) [\[Note2\]](https://blog.csdn.net/miracle0_0/article/details/79640016) [\[unofficial1-tf\]](https://github.com/alexhagiopol/deep_homography_estimation) ⭐ 48 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2017-05-15 [\[unofficial2-tf\]](https://github.com/yishiliuhuasheng/deep_image_homography_estimation) ⭐ 49 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2017-08-18 [\[unofficial3\]](https://github.com/mez/deep_homography_estimation) ⭐ 57 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2017-07-22 [\[unofficial4-pytorch\]](https://github.com/mazenmel/Deep-homography-estimation-Pytorch) ⭐ 153 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-05-21 [\[unofficial5-keras\]](https://github.com/richard-guinto/homographynet) ⭐ 47 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2017-10-25 [\[unofficial6-keras\]](https://github.com/fjbriones/deep-homography) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2017-10-25
 
 * \[2018ACCV] Rethinking Planar Homography Estimation Using Perspective Fields [\[Code\]](https://github.com/ruizengalways/PFNet) ⭐ 38 | 🐛 6 | 🌐 Python | 📅 2019-06-28
 
@@ -242,7 +242,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Remote Sensing
 
-* PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet [\[Codes\]](https://github.com/hmgoforth/PointNetLK) ⭐ 493 | 🐛 14 | 🌐 Python | 📅 2019-06-23
+* PointNetLK: Robust & Efficient Point Cloud Registration Using PointNet [\[Codes\]](https://github.com/hmgoforth/PointNetLK) ⭐ 494 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
 * \[2018Acce] Multi-Temporal Remote Sensing Image Registration Using Deep Convolutional Features [\[github\]](https://github.com/yzhq97/cnn-registration) ⭐ 460 | 🐛 25 | 🌐 Python | 📅 2020-12-28
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
