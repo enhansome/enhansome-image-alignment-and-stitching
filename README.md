@@ -369,9 +369,9 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Dsitortion Preserving
 
-* \[**2016ECCV**] Natural Image Stitching with the Global Similarity Prior [\[Proj\]](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/) [\[MacOS\]](https://github.com/nothinglo/NISwGSP) ⭐ 346 | 🐛 27 | 🌐 C | 📅 2018-05-15 [\[CCC\]](https://github.com/Yannnnnnnnnnnn/NISwGSP) ⭐ 52 | 🐛 1 | 🌐 C++ | 📅 2019-02-19 [\[VS\]](https://github.com/firdauslubis88/NISwGSP) ⭐ 67 | 🐛 18 | 🌐 C++ | 📅 2020-11-01
+* \[**2016ECCV**] Natural Image Stitching with the Global Similarity Prior [\[Proj\]](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/) [\[MacOS\]](https://github.com/nothinglo/NISwGSP) ⭐ 347 | 🐛 27 | 🌐 C | 📅 2018-05-15 [\[CCC\]](https://github.com/Yannnnnnnnnnnn/NISwGSP) ⭐ 52 | 🐛 1 | 🌐 C++ | 📅 2019-02-19 [\[VS\]](https://github.com/firdauslubis88/NISwGSP) ⭐ 67 | 🐛 18 | 🌐 C++ | 📅 2020-11-01
 
-* \[**2019TIP**] Single-Perspective Warps in Natural Image Stitching [\[Code\]](https://github.com/tlliao/Single-perspective-warps) ⭐ 43 | 🐛 3 | 🌐 MATLAB | 📅 2025-12-05 [\[Code-multi\]](https://github.com/tlliao/Single-perspective-warps-multiple)
+* \[**2019TIP**] Single-Perspective Warps in Natural Image Stitching [\[Code\]](https://github.com/tlliao/Single-perspective-warps) ⭐ 44 | 🐛 3 | 🌐 MATLAB | 📅 2025-12-05 [\[Code-multi\]](https://github.com/tlliao/Single-perspective-warps-multiple)
 
 * \[2005TOG] As-Rigid-As-Possible Shape Manipulation; \[JoG2009] Implementing As-Rigid-As-Possible Shape Manipulation and Surface Flattening [\[Proj\]](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/research/rigid/)
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

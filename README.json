@@ -1025,7 +1025,7 @@
                 "open_issues": 27,
                 "owner": "nothinglo",
                 "repo": "NISwGSP",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1046,7 +1046,7 @@
                 "open_issues": 3,
                 "owner": "tlliao",
                 "repo": "Single-perspective-warps",
-                "stars": 43,
+                "stars": 44,
                 "topics": [
                   "image-alignment",
                   "image-stitching",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:30:46.557Z",
+    "last_updated": "2026-10-19T01:39:46.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
@@ -1426,7 +1426,7 @@
       "open_issues": 0,
       "owner": "tzxiang",
       "repo": "awesome-image-alignment-and-stitching",
-      "stars": 465,
+      "stars": 466,
       "topics": [
         "alignment",
         "awesome",
