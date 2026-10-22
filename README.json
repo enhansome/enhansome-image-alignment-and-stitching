@@ -208,7 +208,7 @@
                     "open_issues": 20,
                     "owner": "huangkuns",
                     "repo": "wireframe",
-                    "stars": 237,
+                    "stars": 238,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1025,7 +1025,7 @@
                 "open_issues": 27,
                 "owner": "nothinglo",
                 "repo": "NISwGSP",
-                "stars": 347,
+                "stars": 346,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1343,7 +1343,7 @@
                 "open_issues": 35,
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
-                "stars": 2075,
+                "stars": 2076,
                 "topics": [
                   "bundle-adjustment",
                   "panorama",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T01:59:54.808Z",
+    "last_updated": "2026-10-22T01:50:25.113Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",

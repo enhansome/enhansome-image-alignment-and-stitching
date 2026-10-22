@@ -77,7 +77,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2019CVPR**] Learning Attraction Field Representation for Robust Line Segment Detection [\[github\]](https://github.com/cherubicXN/afm_cvpr2019) ⭐ 302 | 🐛 14 | 🌐 Python | 📅 2019-06-23
 
-* \[**2018CVPR**] \[Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [\[github\]](https://github.com/huangkuns/wireframe) ⭐ 237 | 🐛 20 | 🌐 Python | 📅 2022-08-06
+* \[**2018CVPR**] \[Wireframe] Learning to Parse Wireframes in Images of Man-Made Environments [\[github\]](https://github.com/huangkuns/wireframe) ⭐ 238 | 🐛 20 | 🌐 Python | 📅 2022-08-06
 
 * Edge Drawing/EDLines/LBD Descriptors/LSD [\[Code\]](https://github.com/mtamburrano/LBD_Descriptor) ⭐ 187 | 🐛 5 | 🌐 C++ | 📅 2015-07-10 [\[Code2\]](https://github.com/Vincentqyw/LineSegmentsDetection) ⭐ 287 | 🐛 1 | 🌐 Shell | 📅 2025-02-17
 
@@ -369,7 +369,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Dsitortion Preserving
 
-* \[**2016ECCV**] Natural Image Stitching with the Global Similarity Prior [\[Proj\]](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/) [\[MacOS\]](https://github.com/nothinglo/NISwGSP) ⭐ 347 | 🐛 27 | 🌐 C | 📅 2018-05-15 [\[CCC\]](https://github.com/Yannnnnnnnnnnn/NISwGSP) ⭐ 52 | 🐛 1 | 🌐 C++ | 📅 2019-02-19 [\[VS\]](https://github.com/firdauslubis88/NISwGSP) ⭐ 67 | 🐛 18 | 🌐 C++ | 📅 2020-11-01
+* \[**2016ECCV**] Natural Image Stitching with the Global Similarity Prior [\[Proj\]](http://www.cmlab.csie.ntu.edu.tw/project/stitching-wGSP/) [\[MacOS\]](https://github.com/nothinglo/NISwGSP) ⭐ 346 | 🐛 27 | 🌐 C | 📅 2018-05-15 [\[CCC\]](https://github.com/Yannnnnnnnnnnn/NISwGSP) ⭐ 52 | 🐛 1 | 🌐 C++ | 📅 2019-02-19 [\[VS\]](https://github.com/firdauslubis88/NISwGSP) ⭐ 67 | 🐛 18 | 🌐 C++ | 📅 2020-11-01
 
 * \[**2019TIP**] Single-Perspective Warps in Natural Image Stitching [\[Code\]](https://github.com/tlliao/Single-perspective-warps) ⭐ 44 | 🐛 3 | 🌐 MATLAB | 📅 2025-12-05 [\[Code-multi\]](https://github.com/tlliao/Single-perspective-warps-multiple)
 
@@ -535,7 +535,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Examples
 
-* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,075 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
+* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,076 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
 
 * Panorama stitching Project (Python) [\[Code\]](https://github.com/tsherlock/panorama) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2014-10-08 :star:
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
