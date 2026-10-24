@@ -65,7 +65,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Key Point
 
-* \[**2016ECCV**] LIFT: Learned Invariant Feature Transform [\[Theano\]](https://github.com/cvlab-epfl/LIFT) ⭐ 494 | 🐛 1 | 🌐 Python | 📅 2017-11-06 [\[TF\]](https://github.com/cvlab-epfl/tf-lift) ⭐ 196 | 🐛 10 | 🌐 Python | 📅 2020-09-30 [\[Eduard Trulls\]](https://etrulls.github.io/)
+* \[**2016ECCV**] LIFT: Learned Invariant Feature Transform [\[Theano\]](https://github.com/cvlab-epfl/LIFT) ⭐ 495 | 🐛 1 | 🌐 Python | 📅 2017-11-06 [\[TF\]](https://github.com/cvlab-epfl/tf-lift) ⭐ 196 | 🐛 10 | 🌐 Python | 📅 2020-09-30 [\[Eduard Trulls\]](https://etrulls.github.io/)
 
 * \[**2018NeurIPS**] LF-Net: Learning Local Features from Images [\[github\]](https://github.com/vcg-uvic/lf-net-release) ⭐ 320 | 🐛 14 | 🌐 Python | 📅 2022-11-21
 
@@ -100,7 +100,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Ellipse detection
 
-* \[**2018TIP**] Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection [\[github\]](https://github.com/AlanLuSun/High-quality-ellipse-detection) ⭐ 519 | 🐛 28 | 🌐 C++ | 📅 2026-08-12
+* \[**2018TIP**] Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection [\[github\]](https://github.com/AlanLuSun/High-quality-ellipse-detection) ⭐ 519 | 🐛 29 | 🌐 C++ | 📅 2026-08-12
 
 * \[**2017TIP**] A Fast Ellipse Detector Using Projective Invariant Pruning [\[Code\]](https://github.com/dlut-dimt/ellipse-detector) ⭐ 78 | 🐛 1 | 🌐 C++ | 📅 2016-08-27
 
@@ -126,7 +126,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Feature Matching
 
-* \[**2019ICCV**] Learning Two-View Correspondences and Geometry Using Order-Aware Network [\[Codes\]](https://github.com/zjhthu/OANet) ⭐ 272 | 🐛 7 | 🌐 Python | 📅 2023-04-10
+* \[**2019ICCV**] Learning Two-View Correspondences and Geometry Using Order-Aware Network [\[Codes\]](https://github.com/zjhthu/OANet) ⭐ 273 | 🐛 7 | 🌐 Python | 📅 2023-04-10
 
 * \[**2019CVPR**] RF-Net: An End-to-End Image Matching Network based on Receptive Field [\[Code\]](https://github.com/Xylon-Sean/rfnet) ⭐ 136 | 🐛 16 | 🌐 Python | 📅 2021-10-12
 
@@ -178,7 +178,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 504 | 🐛 16 | 🌐 C++ | 📅 2026-03-09
 
-* \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 340 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
+* \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 341 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
 
 * \[**2018CVPR**] Latent RANSAC [\[Code\]](https://github.com/rlit/LatentRANSAC) ⭐ 25 | 🐛 0 | 🌐 C++ | 📅 2018-06-04
 
@@ -435,7 +435,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Gradient-based
 
-* \[**2019MM**] GP-GAN: Towards Realistic High-Resolution Image Blending  [\[Proj\]](http://wuhuikai.me/GP-GAN-Project/)  [\[github\]](https://github.com/wuhuikai/GP-GAN) ⭐ 473 | 🐛 2 | 🌐 Python | 📅 2020-03-27 :star:
+* \[**2019MM**] GP-GAN: Towards Realistic High-Resolution Image Blending  [\[Proj\]](http://wuhuikai.me/GP-GAN-Project/)  [\[github\]](https://github.com/wuhuikai/GP-GAN) ⭐ 474 | 🐛 2 | 🌐 Python | 📅 2020-03-27 :star:
 * \[2012TOG] Image Melding: Combining Inconsistent Images using Patch-based Synthesis [\[Proj/Code\]](https://www.ece.ucsb.edu/~psen/melding.html)
 * \[2010ECCV] Error-tolerant Image Compositing [\[Code\]](http://graphics.berkeley.edu/papers/Tao-ERR-2010-09/)
 * \[2007TOG] Efficient gradient-domain compositing using quadtrees \[in PS CS3] [\[Proj\]](http://www.agarwala.org/efficient_gdc/)
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
