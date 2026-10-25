@@ -6,7 +6,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,550 | 🐛 0 | 📅 2026-10-17
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,551 | 🐛 0 | 📅 2026-10-17
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
