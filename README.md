@@ -6,7 +6,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,551 | 🐛 0 | 📅 2026-10-17
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,552 | 🐛 0 | 📅 2026-10-17
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
@@ -176,7 +176,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,113 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
-* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 504 | 🐛 16 | 🌐 C++ | 📅 2026-03-09
+* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 505 | 🐛 16 | 🌐 C++ | 📅 2026-03-09
 
 * \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 341 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
