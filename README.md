@@ -6,7 +6,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,552 | 🐛 0 | 📅 2026-10-17
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,553 | 🐛 0 | 📅 2026-10-17
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
@@ -174,7 +174,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - OutlierRemoval
 
-* \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,113 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
+* \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,112 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
 * \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 505 | 🐛 16 | 🌐 C++ | 📅 2026-03-09
 
@@ -234,7 +234,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2017PAMI**] Transformations Based on Continuous Piecewise-Affine Velocity Fields
 
-  > \[2015ICCV] Highly-Expressive Spaces of Well-Behaved Transformations: Keeping It Simple [\[Code-Python+CUDA\]](https://github.com/freifeld/cpabDiffeo) ⭐ 25 | 🐛 0 | 🌐 Python | 📅 2020-07-11 [\[Code-CPU+Julia\]](https://github.com/angel8yu/cpab-diffeo-julia) ⭐ 1 | 🐛 0 | 🌐 Julia | 📅 2016-03-24 [\[Proj\]](http://groups.csail.mit.edu/vision/sli/projects.php?name=cpab)
+  > \[2015ICCV] Highly-Expressive Spaces of Well-Behaved Transformations: Keeping It Simple [\[Code-Python+CUDA\]](https://github.com/freifeld/cpabDiffeo) ⭐ 26 | 🐛 0 | 🌐 Python | 📅 2020-07-11 [\[Code-CPU+Julia\]](https://github.com/angel8yu/cpab-diffeo-julia) ⭐ 1 | 🐛 0 | 🌐 Julia | 📅 2016-03-24 [\[Proj\]](http://groups.csail.mit.edu/vision/sli/projects.php?name=cpab)
 
 * \[**2015CVPR**] Robust Image Alignment with Multiple Feature Descriptors and Matching-Guided Neighborhoods [\[Proj/Code\]](http://cvlab.citi.sinica.edu.tw/publications?id=79)
 
@@ -535,7 +535,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Examples
 
-* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,076 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
+* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,075 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
 
 * Panorama stitching Project (Python) [\[Code\]](https://github.com/tsherlock/panorama) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2014-10-08 :star:
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

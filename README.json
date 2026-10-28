@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
-            "stars": 1552,
+            "stars": 1553,
             "topics": [
               "awesome",
               "awesome-list",
@@ -520,7 +520,7 @@
                     "open_issues": 10,
                     "owner": "JiawangBian",
                     "repo": "GMS-Feature-Matcher",
-                    "stars": 1113,
+                    "stars": 1112,
                     "topics": [
                       "feature",
                       "gms",
@@ -1343,7 +1343,7 @@
                 "open_issues": 35,
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
-                "stars": 2076,
+                "stars": 2075,
                 "topics": [
                   "bundle-adjustment",
                   "panorama",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:24:40.525Z",
+    "last_updated": "2026-10-28T02:34:21.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
