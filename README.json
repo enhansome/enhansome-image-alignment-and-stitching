@@ -299,7 +299,7 @@
                     "open_issues": 29,
                     "owner": "AlanLuSun",
                     "repo": "High-quality-ellipse-detection",
-                    "stars": 519,
+                    "stars": 518,
                     "topics": [
                       "ellipse-detection",
                       "ellipse-detector",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T02:34:21.046Z",
+    "last_updated": "2026-10-29T02:50:21.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
