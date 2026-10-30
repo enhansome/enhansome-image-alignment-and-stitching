@@ -128,11 +128,11 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2019ICCV**] Learning Two-View Correspondences and Geometry Using Order-Aware Network [\[Codes\]](https://github.com/zjhthu/OANet) ⭐ 273 | 🐛 7 | 🌐 Python | 📅 2023-04-10
 
-* \[**2019CVPR**] RF-Net: An End-to-End Image Matching Network based on Receptive Field [\[Code\]](https://github.com/Xylon-Sean/rfnet) ⭐ 136 | 🐛 16 | 🌐 Python | 📅 2021-10-12
+* \[**2019CVPR**] RF-Net: An End-to-End Image Matching Network based on Receptive Field [\[Code\]](https://github.com/Xylon-Sean/rfnet) ⭐ 137 | 🐛 16 | 🌐 Python | 📅 2021-10-12
 
 * \[**2018PAMI**] CODE: Coherence based Decision Boundaries for Feature Matching [\[Code\]](https://github.com/seravee08/WideBaselineFeatureMatcher_PAMI) ⭐ 37 | 🐛 7 | 🌐 C++ | 📅 2015-09-02
 
-* \[**2013CVPR**] Joint Spectral Correspondence for Disparate Image Matching [\[Code\]](https://github.com/chaitanya100100/Spectral-Analysis-for-Image-Matching) ⭐ 13 | 🐛 0 | 🌐 Matlab | 📅 2017-06-22
+* \[**2013CVPR**] Joint Spectral Correspondence for Disparate Image Matching [\[Code\]](https://github.com/chaitanya100100/Spectral-Analysis-for-Image-Matching) ⭐ 14 | 🐛 0 | 🌐 Matlab | 📅 2017-06-22
 
 * \[2017MM] Deep Matching and Validation Network: An End-to-End Solution to Constrained Image Splicing Localization and Detection [\[Codes\]](https://github.com/maroofmf/image_splicing_ICT) ⭐ 7 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2017-06-09
 
@@ -176,7 +176,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,112 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
-* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 505 | 🐛 16 | 🌐 C++ | 📅 2026-03-09
+* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 504 | 🐛 16 | 🌐 C++ | 📅 2026-03-09
 
 * \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 341 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
 
@@ -202,7 +202,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * Content-Aware Unsupervised Deep Homography Estimation, arXiv2019.9 [\[Code\]](https://github.com/JirongZhang/DeepHomography) ⭐ 366 | 🐛 32 | 🌐 Python | 📅 2021-04-12
 
-* \[2018RAL] Unsupervised Deep Homography: A Fast and Robust Homography Estimation Model, IEEE RAL [\[Code\]](https://github.com/tynguyen/unsupervisedDeepHomographyRAL2018) ⭐ 290 | 🐛 4 | 🌐 Python | 📅 2018-04-23
+* \[2018RAL] Unsupervised Deep Homography: A Fast and Robust Homography Estimation Model, IEEE RAL [\[Code\]](https://github.com/tynguyen/unsupervisedDeepHomographyRAL2018) ⭐ 291 | 🐛 4 | 🌐 Python | 📅 2018-04-23
 
 * \[2016RSSW] \[HomographyNet] Deep Image Homography Estimation, RSSW2016 [\[Note\]](https://mez.github.io/2017/07/21/homographynet-deep-image-homography-estimation/) [\[Note2\]](https://blog.csdn.net/miracle0_0/article/details/79640016) [\[unofficial1-tf\]](https://github.com/alexhagiopol/deep_homography_estimation) ⭐ 48 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2017-05-15 [\[unofficial2-tf\]](https://github.com/yishiliuhuasheng/deep_image_homography_estimation) ⭐ 49 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2017-08-18 [\[unofficial3\]](https://github.com/mez/deep_homography_estimation) ⭐ 57 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2017-07-22 [\[unofficial4-pytorch\]](https://github.com/mazenmel/Deep-homography-estimation-Pytorch) ⭐ 153 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2022-05-21 [\[unofficial5-keras\]](https://github.com/richard-guinto/homographynet) ⭐ 47 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2017-10-25 [\[unofficial6-keras\]](https://github.com/fjbriones/deep-homography) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2017-10-25
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

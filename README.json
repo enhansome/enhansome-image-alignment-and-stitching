@@ -425,7 +425,7 @@
                     "open_issues": 16,
                     "owner": "xuelunshen",
                     "repo": "rfnet",
-                    "stars": 136,
+                    "stars": 137,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -467,7 +467,7 @@
                     "open_issues": 0,
                     "owner": "chaitanya100100",
                     "repo": "Spectral-Analysis-for-Image-Matching",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": [
                       "image-comparison",
                       "spectral-analysis",
@@ -547,7 +547,7 @@
                     "open_issues": 16,
                     "owner": "danini",
                     "repo": "magsac",
-                    "stars": 505,
+                    "stars": 504,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -693,7 +693,7 @@
                 "open_issues": 4,
                 "owner": "tynguyen",
                 "repo": "unsupervisedDeepHomographyRAL2018",
-                "stars": 290,
+                "stars": 291,
                 "topics": [
                   "deep",
                   "homography",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:50:21.488Z",
+    "last_updated": "2026-10-30T02:56:19.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
