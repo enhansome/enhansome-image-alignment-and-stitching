@@ -520,7 +520,7 @@
                     "open_issues": 10,
                     "owner": "JiawangBian",
                     "repo": "GMS-Feature-Matcher",
-                    "stars": 1112,
+                    "stars": 1113,
                     "topics": [
                       "feature",
                       "gms",
@@ -818,7 +818,7 @@
                     "open_issues": 14,
                     "owner": "hmgoforth",
                     "repo": "PointNetLK",
-                    "stars": 494,
+                    "stars": 493,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T02:56:19.275Z",
+    "last_updated": "2026-10-31T02:42:11.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
