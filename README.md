@@ -200,7 +200,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Homography
 
-* Content-Aware Unsupervised Deep Homography Estimation, arXiv2019.9 [\[Code\]](https://github.com/JirongZhang/DeepHomography) ⭐ 366 | 🐛 32 | 🌐 Python | 📅 2021-04-12
+* Content-Aware Unsupervised Deep Homography Estimation, arXiv2019.9 [\[Code\]](https://github.com/JirongZhang/DeepHomography) ⭐ 367 | 🐛 32 | 🌐 Python | 📅 2021-04-12
 
 * \[2018RAL] Unsupervised Deep Homography: A Fast and Robust Homography Estimation Model, IEEE RAL [\[Code\]](https://github.com/tynguyen/unsupervisedDeepHomographyRAL2018) ⭐ 291 | 🐛 4 | 🌐 Python | 📅 2018-04-23
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
