@@ -672,7 +672,7 @@
                 "open_issues": 32,
                 "owner": "JirongZhang",
                 "repo": "DeepHomography",
-                "stars": 367,
+                "stars": 366,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -693,7 +693,7 @@
                 "open_issues": 4,
                 "owner": "tynguyen",
                 "repo": "unsupervisedDeepHomographyRAL2018",
-                "stars": 291,
+                "stars": 290,
                 "topics": [
                   "deep",
                   "homography",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:43:14.209Z",
+    "last_updated": "2026-11-06T03:38:50.456Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
