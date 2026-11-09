@@ -1343,7 +1343,7 @@
                 "open_issues": 35,
                 "owner": "ppwwyyxx",
                 "repo": "OpenPano",
-                "stars": 2078,
+                "stars": 2077,
                 "topics": [
                   "bundle-adjustment",
                   "panorama",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T02:41:31.624Z",
+    "last_updated": "2026-11-09T02:57:42.109Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
