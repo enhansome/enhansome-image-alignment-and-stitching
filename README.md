@@ -6,7 +6,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ## Tutorials
 
-* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,554 | 🐛 0 | 📅 2026-10-17
+* **Repo**: [Image registration](https://github.com/youngfish42/awesome-image-registration) ⭐ 1,557 | 🐛 0 | 📅 2026-10-17
 
   A resource list about image registration related to natural/remote sensing/medical image and point cloud.
 
@@ -535,7 +535,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ### Examples
 
-* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,078 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
+* OpenPano: Automatic Panorama Stitching From Scratch [\[Code\]](https://github.com/ppwwyyxx/OpenPano) ⭐ 2,080 | 🐛 35 | 🌐 C++ | 📅 2023-10-06 :star::star:
 
 * Panorama stitching Project (Python) [\[Code\]](https://github.com/tsherlock/panorama) ⭐ 99 | 🐛 2 | 🌐 Python | 📅 2014-10-08 :star:
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
