@@ -67,7 +67,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2016ECCV**] LIFT: Learned Invariant Feature Transform [\[Theano\]](https://github.com/cvlab-epfl/LIFT) ⭐ 495 | 🐛 1 | 🌐 Python | 📅 2017-11-06 [\[TF\]](https://github.com/cvlab-epfl/tf-lift) ⭐ 196 | 🐛 10 | 🌐 Python | 📅 2020-09-30 [\[Eduard Trulls\]](https://etrulls.github.io/)
 
-* \[**2018NeurIPS**] LF-Net: Learning Local Features from Images [\[github\]](https://github.com/vcg-uvic/lf-net-release) ⭐ 320 | 🐛 14 | 🌐 Python | 📅 2022-11-21
+* \[**2018NeurIPS**] LF-Net: Learning Local Features from Images [\[github\]](https://github.com/vcg-uvic/lf-net-release) ⭐ 321 | 🐛 14 | 🌐 Python | 📅 2022-11-21
 
 * GLAMpoints: Greedily Learned Accurate Match points, arXiv2019.8
 
@@ -176,7 +176,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,114 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
-* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 504 | 🐛 27 | 🌐 C++ | 📅 2026-03-09
+* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 504 | 🐛 30 | 🌐 C++ | 📅 2026-03-09
 
 * \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 341 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
