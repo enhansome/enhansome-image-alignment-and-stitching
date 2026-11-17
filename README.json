@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "Awesome-Image-Registration-Organization",
             "repo": "awesome-image-registration",
-            "stars": 1557,
+            "stars": 1558,
             "topics": [
               "awesome",
               "awesome-list",
@@ -138,7 +138,7 @@
                     "open_issues": 1,
                     "owner": "cvlab-epfl",
                     "repo": "LIFT",
-                    "stars": 495,
+                    "stars": 496,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -159,7 +159,7 @@
                     "open_issues": 14,
                     "owner": "vcg-uvic",
                     "repo": "lf-net-release",
-                    "stars": 321,
+                    "stars": 322,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -544,10 +544,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-03-09T20:31:00Z",
-                    "open_issues": 30,
+                    "open_issues": 33,
                     "owner": "danini",
                     "repo": "magsac",
-                    "stars": 504,
+                    "stars": 505,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T03:05:39.872Z",
+    "last_updated": "2026-11-17T05:13:48.288Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
