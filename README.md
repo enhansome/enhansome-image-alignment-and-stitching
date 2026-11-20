@@ -65,9 +65,9 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Key Point
 
-* \[**2016ECCV**] LIFT: Learned Invariant Feature Transform [\[Theano\]](https://github.com/cvlab-epfl/LIFT) ⭐ 496 | 🐛 1 | 🌐 Python | 📅 2017-11-06 [\[TF\]](https://github.com/cvlab-epfl/tf-lift) ⭐ 196 | 🐛 10 | 🌐 Python | 📅 2020-09-30 [\[Eduard Trulls\]](https://etrulls.github.io/)
+* \[**2016ECCV**] LIFT: Learned Invariant Feature Transform [\[Theano\]](https://github.com/cvlab-epfl/LIFT) ⭐ 495 | 🐛 1 | 🌐 Python | 📅 2017-11-06 [\[TF\]](https://github.com/cvlab-epfl/tf-lift) ⭐ 196 | 🐛 10 | 🌐 Python | 📅 2020-09-30 [\[Eduard Trulls\]](https://etrulls.github.io/)
 
-* \[**2018NeurIPS**] LF-Net: Learning Local Features from Images [\[github\]](https://github.com/vcg-uvic/lf-net-release) ⭐ 322 | 🐛 14 | 🌐 Python | 📅 2022-11-21
+* \[**2018NeurIPS**] LF-Net: Learning Local Features from Images [\[github\]](https://github.com/vcg-uvic/lf-net-release) ⭐ 321 | 🐛 14 | 🌐 Python | 📅 2022-11-21
 
 * GLAMpoints: Greedily Learned Accurate Match points, arXiv2019.8
 
@@ -174,7 +174,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - OutlierRemoval
 
-* \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,114 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
+* \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,113 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
 * \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 505 | 🐛 34 | 🌐 C++ | 📅 2026-03-09
 
@@ -435,7 +435,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Gradient-based
 
-* \[**2019MM**] GP-GAN: Towards Realistic High-Resolution Image Blending  [\[Proj\]](http://wuhuikai.me/GP-GAN-Project/)  [\[github\]](https://github.com/wuhuikai/GP-GAN) ⭐ 475 | 🐛 2 | 🌐 Python | 📅 2020-03-27 :star:
+* \[**2019MM**] GP-GAN: Towards Realistic High-Resolution Image Blending  [\[Proj\]](http://wuhuikai.me/GP-GAN-Project/)  [\[github\]](https://github.com/wuhuikai/GP-GAN) ⭐ 474 | 🐛 2 | 🌐 Python | 📅 2020-03-27 :star:
 * \[2012TOG] Image Melding: Combining Inconsistent Images using Patch-based Synthesis [\[Proj/Code\]](https://www.ece.ucsb.edu/~psen/melding.html)
 * \[2010ECCV] Error-tolerant Image Compositing [\[Code\]](http://graphics.berkeley.edu/papers/Tao-ERR-2010-09/)
 * \[2007TOG] Efficient gradient-domain compositing using quadtrees \[in PS CS3] [\[Proj\]](http://www.agarwala.org/efficient_gdc/)
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._

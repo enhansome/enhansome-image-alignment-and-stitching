@@ -138,7 +138,7 @@
                     "open_issues": 1,
                     "owner": "cvlab-epfl",
                     "repo": "LIFT",
-                    "stars": 496,
+                    "stars": 495,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -159,7 +159,7 @@
                     "open_issues": 14,
                     "owner": "vcg-uvic",
                     "repo": "lf-net-release",
-                    "stars": 322,
+                    "stars": 321,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T07:04:10.014Z"
@@ -520,7 +520,7 @@
                     "open_issues": 10,
                     "owner": "JiawangBian",
                     "repo": "GMS-Feature-Matcher",
-                    "stars": 1114,
+                    "stars": 1113,
                     "topics": [
                       "feature",
                       "gms",
@@ -1167,7 +1167,7 @@
                     "open_issues": 2,
                     "owner": "wuhuikai",
                     "repo": "GP-GAN",
-                    "stars": 475,
+                    "stars": 474,
                     "topics": [
                       "artificial-intelligence",
                       "chainer",
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:29:30.375Z",
+    "last_updated": "2026-11-20T04:15:47.795Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
