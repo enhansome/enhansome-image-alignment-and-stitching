@@ -100,7 +100,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 #### - Ellipse detection
 
-* \[**2018TIP**] Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection [\[github\]](https://github.com/AlanLuSun/High-quality-ellipse-detection) ⭐ 518 | 🐛 29 | 🌐 C++ | 📅 2026-08-12
+* \[**2018TIP**] Arc-support Line Segments Revisited: An Efficient and High-quality Ellipse Detection [\[github\]](https://github.com/AlanLuSun/High-quality-ellipse-detection) ⭐ 518 | 🐛 28 | 🌐 C++ | 📅 2026-08-12
 
 * \[**2017TIP**] A Fast Ellipse Detector Using Projective Invariant Pruning [\[Code\]](https://github.com/dlut-dimt/ellipse-detector) ⭐ 78 | 🐛 1 | 🌐 C++ | 📅 2016-08-27
 
@@ -176,7 +176,7 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 * \[**2017CVPR**] GMS: Grid-based Motion Statistics for Fast, Ultra-robust Feature Correspondence [\[Code\]](https://github.com/JiawangBian/GMS-Feature-Matcher) ⭐ 1,113 | 🐛 10 | 🌐 Python | 📅 2020-06-10 [\[Talk\]](https://www.bilibili.com/video/av11450426/)
 
-* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 505 | 🐛 34 | 🌐 C++ | 📅 2026-03-09
+* \[**2019CVPR**] MAGSAC: marginalizing sample consensus (no in-outlier threshold) [\[Code\]](https://github.com/danini/magsac) ⭐ 505 | 🐛 33 | 🌐 C++ | 📅 2026-03-09
 
 * \[**2019ICCV**] Neural-Guided RANSAC: Learning Where to Sample Model Hypotheses [\[github\]](https://github.com/vislearn/ngransac) ⭐ 341 | 🐛 1 | 🌐 Python | 📅 2021-11-03 [\[Proj\]](https://hci.iwr.uni-heidelberg.de/vislearn/research/neural-guided-ransac/)
 
@@ -543,4 +543,4 @@ A curated list of awesome resources for image alignment and stitching, etc. The 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
