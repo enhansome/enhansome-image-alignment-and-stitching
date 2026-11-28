@@ -1025,7 +1025,7 @@
                 "open_issues": 27,
                 "owner": "nothinglo",
                 "repo": "NISwGSP",
-                "stars": 346,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:04:10.014Z"
@@ -1414,7 +1414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T05:20:07.910Z",
+    "last_updated": "2026-11-28T04:56:41.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome resources for image alignment and stitching ...",
